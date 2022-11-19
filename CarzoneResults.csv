@@ -1,0 +1,409 @@
+,brand,model,price,engine,fuel,bodytype,transmission,colour,mileage,year,owners,doors,phone,county
+0,Audi A1,SOLD SOLD SPORT 1.2 TFSI 86BHP 2DR*SALE NOW ON STRAIGHT DEAL OFFERS*,"€14,500",1.2,Petrol,Hatchback,Manual,White,"146,450 km",2015 (151),"['2', 'owners']","['2', 'doors']","(090) 974 1077, 087 638 5033",Galway
+1,Audi A3,A3 SPORTBACK 1.4TFSI E 204BHP AUTOMATIC HYBRID WITH FN PACK PACK,"€38,995",1.4,Petrol,Hatchback,Automatic,Blue,"25,111 km",2021 (211),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+2,Audi A3,1.6TDI 116 S Line,"€25,900",1.6,Diesel,Saloon,Manual,Black,"75,451 km",2018 (182),"['1', 'owner']","['4', 'doors']",(01) 255 1216,Cork
+3,Volvo S60,"T4 190hp (Petrol) Inscription Auto, Nappa Leather Sport Seats Smartphone Integration With Apple & Android Car Play, Adaptive Cruise Control","€46,950",2.0,Petrol,Saloon,Automatic,Pebble Grey,"22,638 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 691 7760,Dublin
+4,A1,1.2 Hatchback Petrol Manual (86bhp),"€8,900",1.2,Petrol,Hatchback,Manual,Silver,"188,000 km",2011,"['6', 'owners']","['3', 'doors']",087 095 9703,"class=""fpa-actions__sub-title"">Kildare"
+5,Audi A4,2.0 TDI 120BHP,"€13,999",2.0,Diesel,Saloon,Manual,Black,"177,639 km",2014 (141),"['3', 'owners']","['4', 'doors']",(01) 531 4520,Dublin
+6,Alfa Romeo Giulietta,"COLLEZIONE,1.4 PETROL,-SERV.HISTORY","€9,450",1.4,Petrol,Hatchback,Manual,Black,"164,149 km",2013 (132),"['2', 'owners']","['5', 'doors']",087 171 2185,Galway
+7,Audi A3,1.0 Petrol S Line Sportback Black Edition Manual,"€28,999",1.0,Petrol,Hatchback,Manual,Grey,"25,403 km",2019 (191),"['1', 'owner']","['5', 'doors']",(01) 403 6700,Dublin
+8,Audi A3,30TFSI 116 SE (S-LINE EXTERIOR),"€28,000",1.0,Petrol,Hatchback,Manual,Grey,"41,389 km",2019 (191),"['2', 'owners']","['4', 'doors']",(01) 858 0208,Dublin
+9,Audi A3,"S Line 30 TFSi 116hp Bluetooth,Aircon, Cruise Control","€28,850",1.0,Petrol,Saloon,Manual,Blue,"71,498 km",2020 (202),"['1', 'owner']","['4', 'doors']",(01) 869 2170,Dublin
+10,Audi A3,2021 Audi A3 LIMOUSINE 30 TFSI 110HP S LINE 4DR,"€38,950",1.0,Petrol,Saloon,Manual,Black,"10,180 km",2021 (211),"['2', 'owners']","['4', 'doors']",(01) 269 4477,Dublin
+11,Audi A1,1.4 TFSI S TRONIC SPORTBACK,"€14,500",1.4,Petrol,Hatchback,Automatic,Red,"98,000 km",2014 (141),"['1', 'owner']","['5', 'doors']",(01) 864 2400,Dublin
+12,Audi A1,1.6 Sport Hatchback Diesel Manual (90bhp),"€12,950",1.6,Diesel,Hatchback,Manual,Red,"126,983 km",2014 (141),"['2', 'owners']","['5', 'doors']",087 947 7432,"class=""fpa-actions__sub-title"">Kildare"
+13,Mercedes-Benz C-Class,C200 1.6 TDI Mercedes Benz * STUNNING BLUE *,"€23,795",1.6,Diesel,Saloon,Automatic,Blue,"140,167 km",2017 (171),"['1', 'owner']","['5', 'doors']",(096) 25777,Mayo
+14,Audi A3,Sport Black Edition - Leather,"€24,900",1.6,Diesel,Hatchback,Manual,Tango Red Metallic,"88,512 km",2019 (191),"['1', 'owner']","['5', 'doors']","(01) 564 4083, 087 744 4454",Dublin
+15,SEAT Ibiza,IBIZA 1.0TSI 95BHP XCELLENCE PLUS,"€22,450",1.0,Petrol,Hatchback,Manual,Grey,"7,580 km",2021 (212),"['1', 'owner']","['5', 'doors']",(021) 601 9036,Cork
+16,Alfa Romeo Stelvio,2.0l Turbo 200hp AWD Lusso TI-LEATHER-CAMERA-SAT NAV-D.N.A SUSPENSION SET UP,"€56,950",2.0,Petrol,SUV,Automatic,Grey Metallic,"28,500 km",2021 (212),"['1', 'owner']","['5', 'doors']",(021) 432 0266,Cork
+17,Audi A6,40TDI 204HP S tronic SE,"€43,995",2.0,Diesel,Saloon,Automatic,Grey,"44,200 km",2020 (202),"['1', 'owner']","['4', 'doors']",(041) 213 4062,Louth
+18,Audi A1,1.4TFSI 125 S-TRONIC **AUTO**,"€14,995",1.4,Petrol,Hatchback,Automatic,Beige,"112,385 km",2014 (141),"['1', 'owner']","['5', 'doors']",(041) 980 5505,Louth
+19,Audi A3,1.6TDI 116 S Line Saloon,"€28,950",1.6,Diesel,Saloon,Manual,Brilliant Black,"109,453 km",2018 (182),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+20,Audi A1,30 TFSI 110HP S line,"€36,999",1.0,Petrol,Hatchback,Manual,Arrow Grey,"5,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+21,BMW 1 Series,116d SE Business 5-door,"€28,900",1.5,Diesel,Hatchback,Manual,Jet Black,"49,244 km",2019 (192),"['1', 'owner']","['5', 'doors']",(021) 235 5107,Cork
+22,Audi A3,30 TFSI S-Line 110HP*Full Leather Seats*,"€39,950",1.0,Petrol,Hatchback,Manual,Blue,"1,000 km",2022 (221),"['2', 'owners']","['5', 'doors']",(01) 513 6903,Dublin
+23,Romeo Giulietta,1.4 TB MULTIAIR VELO VELOCE 5DR,"€10,950",1.4,Petrol,Hatchback,Manual,Grey,"127,000 km",2012,"['2', 'owners']","['5', 'doors']","(01) 450 7599, 087 190 5146",Dublin
+24,Audi A1,SPORTBACK 1.0 TSI SLINE // IMMACULATE CON DITION ORIGINAL IRISH CAR // ALLOYS // HALF LEATHER // BLUETOOTH // AIR-CON // MFSW // NAAS ROAD AUTOS EST 1,"€16,950",1.0,Petrol,Hatchback,Manual,White,"116,999 km",2016 (162),"['1', 'owner']","['5', 'doors']",(01) 456 4074,Dublin
+25,Alfa Romeo Giulia,2.2 TD SUPER AUTOMATIC 150BHP MODEL // SERVICE HISTORY // FULL LEATHER INTERIOR // HEATED SEATS // REVERSE CAMERA // FINANCE THIS CAR FROM ONLY €109 P,"€28,900",2.2,Diesel,Saloon,Automatic,Blue,"64,391 km",2018 (181),"['1', 'owner']","['4', 'doors']",(01) 456 9562,D22XK49
+26,Hyundai Santa Fe,2.2 CRDi 2WD Executive Plus 7 Seater,"€47,995",2.2,Diesel,SUV,Manual,Blue,"47,000 km",2020 (202),"['1', 'owner']","['5', 'doors']",(01) 485 1252,Dublin
+27,Honda Jazz,DAA-GP5 HYBRID 5DR AUTO,"€14,800",1.5,Petrol Hybrid,Hatchback,Automatic,White,"59,324 km",2017 (171),"['1', 'owner']","['5', 'doors']",(021) 475 7261,Cork
+28,Romeo Giulietta,1.4 Lusso Hatchback Petrol Manual (120bhp),"€9,995",1.4,Petrol,Hatchback,Manual,Red,"86,000 km",2012,"['2', 'owners']","['5', 'doors']","(01) 821 6622, 086 600 4047",Dublin
+29,Alfa Romeo 4C,1.7 TBI 240 BHP DCT COUPE.FINANCE ARRANGED.WWW.SARSFIELDMOTORS.IE,"€79,950",1.7,Petrol,Coupe,Automatic,Red,"45,999 km",2014 (142),"['2', 'owners']","['2', 'doors']","(01) 473 8906, 087 963 0691",Dublin
+30,Audi A3,"A3 SPORTBACK 2.0 30TDI 116BHP SE WITH COMFORT PACK *WAS ?39,900 NOW ?37,995*","€37,995",2.0,Diesel,Hatchback,Manual,Grey,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+31,Audi A3,30 TDI 116HP Attraction,"€34,900",2.0,Diesel,Hatchback,Manual,Brilliant Black,150 km,2022 (222),"['1', 'owner']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+32,Hyundai i30,ESTATE 1.6 Diesel 110 BHP Deluxe Tourer 5DR,"€13,950",1.6,Diesel,Estate,Manual,White,"113,200 km",2016 (161),"['2', 'owners']","['5', 'doors']",(090) 647 4620,AN27
+33,BMW 1 Series,118i SE  PETROL CALL 012163600,"€33,900",1.5,Petrol,Hatchback,Manual,Black,"53,500 km",2020 (202),"['1', 'owner']","['4', 'doors']",(01) 513 6352,Dublin
+34,Audi A1,S LINE TFSI,"€12,950",1.2,Petrol,Hatchback,Manual,Red,"77,438 km",2013 (132),"['1', 'owner']","['3', 'doors']","(01) 450 7599, 087 190 5146",Dublin
+35,Volkswagen Caddy,CADDY PV TREND TDI 102BHP  M5F 5,"€21,945",2.0,Diesel,MPV,Manual,Black,"42,400 km",2019 (192),"['2', 'owners']","['5', 'doors']",(091) 423 390,Galway
+36,Audi A3,Saloon S Line 30TFSI,"€31,950",1.0,Petrol,Saloon,Manual,Ibis White,"69,246 km",2020 (201),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+37,Audi A1,SPORTBACK 1.4 TDI DIESEL,"€15,950",1.4,Diesel,Hatchback,Manual,Red,"126,124 km",2015 (152),"['3', 'owners']","['5', 'doors']",(01) 697 2969,Dublin
+38,Audi A5,BLACK EDITION S LINE PAN ROOF,"€42,900",2.0,Diesel,Hatchback,Automatic,Black,"89,000 km",2019 (192),"['1', 'owner']","['5', 'doors']",(01) 513 6352,Dublin
+39,Audi A1,* LEATHER SEATS * 1.4 TFSI SPORTBACK,"€15,950",1.4,Petrol,Hatchback,Automatic,White / Grey,"94,329 km",2013 (131),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+40,Audi A1,"1.0TFSI S-LINE BLACK EDITION **4,500KMS**","€20,900",1.0,Petrol,Hatchback,Manual,White,"4,573 km",2017 (171),"['2', 'owners']","['5', 'doors']",(01) 801 7777,Meath
+41,Abarth 500,1.4L Hatchback Petrol Manual,"€12,250",1.4,Petrol,Hatchback,Manual,Grey,"122,700 km",2013 (131),"['2', 'owners']","['3', 'doors']",085 737 8370,"class=""fpa-actions__sub-title"">Dublin"
+42,Audi A1,1.4 TFSI AUTO 3DR *LOW MILEAGE*,"€13,950",1.4,Petrol,Hatchback,Automatic,White,"66,000 km",2015 (151),"['1', 'owner']","['3', 'doors']","(01) 866 0900, 086 258 2332",Dublin
+43,Audi A1,IRISH CAR 1.0TFSI ULTRA SE,"€15,899",1.0,Petrol,Hatchback,Manual,Red,"92,000 km",2016 (161),"['3', 'owners']","['5', 'doors']",(01) 495 1808,A094
+44,Ford Fiesta,ST Line 1.0 100PS 5speed 5DR,"€14,945",1.0,Petrol,Hatchback,Manual,Red,"55,000 km",2017 (171),"['2', 'owners']","['4', 'doors']",(01) 462 4100,D24AX84
+45,Alfa Romeo Giulia,2.2JTD 180BHP SUPER LUXURY AUTO,"€25,995",2.1,Diesel,Saloon,Automatic,Black,"139,320 km",2017 (172),"['2', 'owners']","['4', 'doors']",(061) 446 033,Limerick
+46,Audi A1,SPORTBACK 1.6 TDI 90 4DR,"€14,950",1.6,Diesel,Hatchback,Manual,Red,"125,999 km",2014 (142),"['3', 'owners']","['5', 'doors']","(01) 450 7599, 087 190 5146",Dublin
+47,BMW 4 Series,430D xDrive M Sport Auto 4 WHEEL DRIVE,"€43,900",3.0,Diesel,Coupe,Automatic,Grey,"69,900 km",2019 (191),"['2', 'owners']","['2', 'doors']",(01) 513 6352,Dublin
+48,Audi A3,1.4 TFSI S TRONIC,"€28,995",1.4,Petrol,Saloon,Automatic,Red,"53,634 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 522 2622,XKF3
+49,Mercedes-Benz E-Class,"E200 D Avantgarde Auto, Full Leather, Heated Seats, Parktronic with reversing Camera, Sat Nav","€36,950",2.0,Diesel,Saloon,Automatic,Black,"93,763 km",2018 (181),"['1', 'owner']","['4', 'doors']",(01) 691 7760,Dublin
+50,Audi A3,A3 SPORTBACK 1.6 30TDI 116BHP S- LINE BLACK EDITION,"€34,995",1.6,Diesel,Hatchback,Manual,Grey,"28,200 km",2020 (202),"['2', 'owners']","['4', 'doors']",(021) 601 9040,Cork
+51,Audi A1,1.2TFSI 86BHP S-LINE IRISH CAR .. FINANCE AVAILABLE .. BAD CREDIT NO PROBLEM .. WARRANTY INCLUDED,"€14,999",1.2,Petrol,Hatchback,Manual,Silver,"94,949 km",2014 (142),"['2', 'owners']","['5', 'doors']","(01) 460 4434, 087 148 7212",Dublin
+52,Audi A3,Saloon 1.6TDI 116BHP SE - S-Line Ext.,"€28,950",1.6,Diesel,Saloon,Manual,Ibis White,"77,515 km",2019 (191),"['1', 'owner']","['4', 'doors']",(090) 644 9250,H548
+53,Audi A1,1.4 S-LINE Hatchback Petrol Auto (122bhp),"€13,950",1.4,Petrol,Hatchback,Automatic,Black,"99,191 km",2013 (131),"['1', 'owner']","['3', 'doors']","086 260 2889, 087 796 1810",Dublin
+54,Audi A1,1.0 Hatchback Petrol Automatic Full Audi Service Record,"€17,400",1.0,Petrol,Hatchback,Automatic,White,"87,776 km",2015 (152),"['1', 'owner']","['3', 'doors']",(01) 296 3246,D14X5K2
+55,Audi A1,1.0TFSI 95HP S-LINE 4DR,"€21,999",1.0,Petrol,Hatchback,Manual,Glacier White,"63,000 km",2018 (181),"['3', 'owners']","['4', 'doors']",(01) 902 3493,Dublin
+56,Audi A3,S-Line 1.0TFSI 116HP,"€28,900",1.0,Petrol,Saloon,Manual,Blue,"94,000 km",2019 (191),"['3', 'owners']","['4', 'doors']",(023) 888 9019,Cork
+57,Audi A3,"1.0TFSI 115 S-Tronic S Line 4Dr - Digital Dash , Full Leather Heated Seats , Diamond Turned Aalloys s","€41,500",1.0,Petrol,Saloon,Automatic,Grey,"19,900 km",2021 (211),"['2', 'owners']","['4', 'doors']",(01) 462 4100,D24AX84
+58,Audi A1,SB 1.0TFSI 95BHP 4DR*SALE NOW ON STRAIGHT DEAL OFFERS*,"€16,450",1.0,Petrol,Hatchback,Manual,Black,"160,466 km",2016 (162),"['2', 'owners']","['4', 'doors']","(090) 974 1077, 087 638 5033",Galway
+59,BMW 2 Series Gran Tourer,218d Luxury Gran Tourer,"€30,950",2.0,Diesel,Estate,Automatic,Mineral Grey,"83,625 km",2018 (181),"['2', 'owners']","['5', 'doors']",(061) 422 600,Limerick
+60,Audi A3,Sportback 40 TFSI e 204HP S Tronic SE,"€38,950",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Brilliant Black,"42,569 km",2021 (212),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+61,Audi Q3,Q3 2.0TDI 150BHP S-LINE S-T QUATTRO AUTOMATIC WITH COMFORT KEY,"€26,995",2.0,Diesel,SUV,Automatic,Grey,"102,893 km",2015 (152),"['2', 'owners']","['4', 'doors']",(021) 603 6468,Cork
+62,Audi A3,30 TDI 116HP SE,"€30,450",1.6,Diesel,Saloon,Manual,Cosmos Blue (Metallic),"62,821 km",2020 (201),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+63,Audi A3,TFSI 150HP S-T S ***RARE***  €500 ONE FOR ALL VOUCHER WITH PURCHASE,"€42,995",1.5,Petrol,Saloon,Automatic,Orange,"10,250 km",2021 (211),"['2', 'owners']","['4', 'doors']",(01) 485 1252,Dublin
+64,Audi A1,"30 TFSI Black Pack - ""Price Includes €2,000 Scrappage""","€27,900",1.0,Petrol,Hatchback,Manual,Manhattan Grey (Metallic),"25,000 km",2022 (221),"['1', 'owner']","['4', 'doors']",(056) 775 1788,Kilkenny
+65,Ford Puma,ST-Line X (Mild Hybrid) 125PS,"€31,500",1.0,Petrol Hybrid,Hatchback,Manual,Fantastic Red,"6,500 km",2022 (221),"['1', 'owner']","['5', 'doors']",(090) 649 0120,Westmeath
+66,Audi A1,SPORTBACK 30 TFSI 110HP S-LINE 4DR,"€34,500",1.0,Petrol,Hatchback,Manual,Glacier White,22 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+67,Audi A4,A4 2.0TDI 120BHP WITH CRUISE CONTROL,"€16,995",2.0,Diesel,Saloon,Manual,Black,"116,095 km",2014 (141),"['2', 'owners']","['4', 'doors']",(021) 603 6468,Cork
+68,Audi A3,1.4 TFSI S TRONIC**LEATHER HEATED SEATS**REVERSE CAM**FRONT AND REAR PARKING SENSORS**,"€17,890",1.4,Petrol,Hatchback,Automatic,White,"78,075 km",2015 (151),"['1', 'owner']","['5', 'doors']",(01) 485 1267,D12
+69,BMW X3,2.0D  XDRIVE 20D M SPORT,"€52,950",2.0,Diesel,SUV,Automatic,Blue,"54,000 km",2019 (191),"['1', 'owner']","['5', 'doors']",(01) 513 6878,Wicklow
+70,Alfa Romeo Giulia,2.2 TD SPECIALE.MASSIVE SERVICE HISTORY.FINANCE ARRANGED.WWW.SARSFIELDMOTORS.IE,"€22,998",2.1,Diesel,Saloon,Automatic,Black,"217,371 km",2017 (172),"['1', 'owner']","['4', 'doors']","(01) 473 8906, 087 963 0691",Dublin
+71,Jaguar E-PACE,2.0d I4 D150 150PS FWD Manual,"€36,950",2.0,Diesel,SUV,Manual,White,"61,300 km",2020 (202),"['1', 'owner']","['5', 'doors']",(090) 647 4620,AN27
+72,Audi A1,A1 SPORTBACK 1.0 30TFSI 116BHP S-LINE BLACK EDITION WITH COMFORT PACK,"€36,995",1.0,Petrol,Hatchback,Manual,Misano Red,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+73,Audi A1,1.4 AUTOMATIC,"€13,900",1.4,Petrol,Hatchback,Automatic,White,"111,999 km",2013 (131),"['1', 'owner']","['3', 'doors']",(01) 890 1921,PX34
+74,Audi A3,30 TFSI 110HP S Line,"€39,950",1.0,Petrol,Saloon,Manual,Mythos Black (Metallic),"11,251 km",2021 (212),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+75,Audi A1,'Sport' Auto 1.4 3Dr,"€15,900",1.4,Petrol,Hatchback,Automatic,Black,"48,415 km",2014 (141),"['1', 'owner']","['3', 'doors']",(01) 283 2044,Dublin
+76,Audi A3,SAL 1.6TDI 116HP SE 4DR,"€29,950",1.6,Diesel,Saloon,Manual,Grey,"59,064 km",2019 (191),"['1', 'owner']","['4', 'doors']",(045) 906 666,Kildare
+77,Audi A3,A3 SPORTBACK 1.0 30TFSI 110BHP S-LINE WITH COMFORT PACK AND BLACK STYLING,"€39,995",1.0,Petrol,Hatchback,Manual,Daytona Grey (Pearl Effect),"14,868 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+78,Audi A3,"30 TFSI 110HP Attraction (ORIGINAL RRP €34930, SAVE €1180)","€33,750",1.0,Petrol,Saloon,Manual,Black,10 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 858 0208,Dublin
+79,Audi A3,1.0TFSI 115 S Line,"€25,950",1.0,Petrol,Hatchback,Manual,Blue,"91,500 km",2018 (182),"['1', 'owner']","['4', 'doors']",(091) 741 100,Galway
+80,Audi A1,1.4 TFSI AUTOMATIC MODEL // NEW NCT // ALLOY WHEELS // AIR CONDITINING // FINANCE THIS CAR FROM ONLY €50 PER WEEK,"€13,450",1.4,Petrol,Hatchback,Automatic,White,"74,820 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 456 9562,D22XK49
+81,Alfa Romeo Giulia,"2.2 JTDM-2 180 Tecnica*Automatic*Alfa Service History*17"" Alloys*Sat Nav*Privacy Glass*Leather/Cloth Trim*Special Alfa White Paint*Finance Arranged*","€29,995",2.1,Diesel,Saloon,Automatic,White,"128,382 km",2018 (181),"['1', 'owner']","['4', 'doors']","(01) 413 3847, 086 792 2172",Dublin
+82,Mercedes-Benz C-Class,C 180 AMG-Line,"€62,950",1.5,Petrol Hybrid,Saloon,Automatic,Grey,"10,933 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 240 8600,Cork
+83,Audi A1,"SPORTBACK 1.6 TDI 90 4DR, AA APPROVED, SERVICE HISTORY, TWO KEYS, NCT 07/24, BLUETOOTH, AIR CON, 12 MONTH WARRANTY, FINANCE AVAILABLE","€13,999",1.6,Diesel,Hatchback,Manual,Red,"88,117 km",2014 (141),"['5', 'owners']","['4', 'doors']","(01) 235 0730, 086 835 0075",Dublin
+84,Audi A1,1.6 SE Hatchback Diesel Manual (116bhp),"€14,500",1.6,Diesel,Hatchback,Manual,Black,"54,508 km",2016 (162),"['2', 'owners']","['5', 'doors']",085 708 8333,"class=""fpa-actions__sub-title"">Dublin"
+85,Romeo Giulietta,1.6 Turismo Hatchback Diesel Manual (105bhp),"€8,000",1.6,Diesel,Hatchback,Manual,Black,"106,000 km",2012,"['4', 'owners']","['5', 'doors']",083 092 6914,"class=""fpa-actions__sub-title"">Kilkenny"
+86,Audi A3,SPORT 30 1.6 TDI (BLACK LEATHER+PARK SENSORS),"€24,950",1.6,Diesel,Hatchback,Manual,Black/black Leather,"121,180 km",2019 (191),"['1', 'owner']","['5', 'doors']","(091) 635 269, 087 925 4636",Galway
+87,Audi A3,1.5tfsi 150HP Sline 4DR,"€31,900",1.5,Petrol,Saloon,Automatic,Black,"21,950 km",2019 (192),"['1', 'owner']","['4', 'doors']",(074) 913 4567,KR7D
+88,Audi A1,1.4 TFSI S TRONIC SPORTBACK,"€13,450",1.4,Petrol,Hatchback,Automatic,Red,"92,000 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 864 2400,Dublin
+89,Audi A1,"1.0 TFSI S-LINE 5 DR 95BHP *53,000KMS*","€18,450",1.0,Petrol,Hatchback,Manual,Black,"53,887 km",2016 (162),"['2', 'owners']","['5', 'doors']",(01) 801 7777,Meath
+90,BMW 1 Series,118i M Sport,"€41,900",1.5,Petrol,Hatchback,Manual,Black Sapphire Metallic Paint,"8,927 km",2022 (221),"['1', 'owner']","['5', 'doors']",(021) 235 5107,Cork
+91,BMW 1 Series,116d Sport,"€34,400",1.5,Diesel,Hatchback,Manual,Mineral Grey,"23,524 km",2020 (201),"['1', 'owner']","['5', 'doors']",(021) 235 5107,Cork
+92,Alfa Romeo Giulia,2.2TD 150hp Super Sport Auto 4dr  Full Service History Automatic Gearbox,"€31,000",2.1,Diesel,Saloon,Automatic,Blue,"65,000 km",2018 (182),"['1', 'owner']","['4', 'doors']",(01) 869 2170,Dublin
+93,Martin DBS,5.9 V12 TOUCHTRONIC COUPE=LOW MILEAGE//IRISH CAR=09 D REG//RARE 2+0 SEATING CONFIGURATION=EXTENSIVE ASTON MARTIN SERVICE HISTORY FILE//TAILORED FINANC,"€129,995",5.9,Petrol,Coupe,Automatic,Silver,"53,107 km",2009,"['3', 'owners']","['2', 'doors']",(01) 832 1222,Dublin
+94,Ford Focus,ST-Line 125 BHP **FINANCE AVAILABLE**,"€23,495",1.0,Petrol,Hatchback,Manual,Red,"56,004 km",2019 (191),"['2', 'owners']","['4', 'doors']",(022) 33054,Cork
+95,Audi A3,A3 SALOON 1.0TFSI 116BHP SE WITH S-LINE EXT PACK,"€27,995",1.0,Petrol,Saloon,Manual,White,"49,254 km",2019 (191),"['2', 'owners']","['4', 'doors']",(021) 601 9040,Cork
+96,Audi A1,1.6 TDI SPORT SPORTBACK 104 104BHP SPORTBK 105PS 5DR,"€13,450",1.6,Diesel,Hatchback,Manual,Black,"70,809 km",2013 (131),"['2', 'owners']","['5', 'doors']",087 207 0409,Dublin
+97,BMW 1 Series,118i Sport,"€38,900",1.5,Petrol,Hatchback,Automatic,Alpine White,"21,961 km",2022 (221),"['1', 'owner']","['5', 'doors']",(021) 235 5107,Cork
+98,Honda Jazz,1.3 I-VTEC SE 5DR,"€16,950",1.3,Petrol,Hatchback,Manual,Grey,"65,000 km",2019 (191),"['1', 'owner']","['5', 'doors']","(051) 337 900, 086 061 1563",Waterford
+99,Audi A1,* TWO TONE COLOUR * 1.0 TFSI AUTOMATIC,"€20,950",1.0,Petrol,Hatchback,Automatic,White / Grey,"90,319 km",2017 (172),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+100,Honda HR-V,1.6 i-DTEC ES,"€18,900",1.6,Diesel,SUV,Manual,Blue,"111,000 km",2016 (161),"['2', 'owners']","['5', 'doors']",(061) 416 000,Limerick
+101,Audi A3,Saloon 1.6TDI 116HP SE - Future Now Pack - Finance From €328pm,"€30,750",1.6,Diesel,Saloon,Manual,Brilliant Black,"49,938 km",2020 (202),"['1', 'owner']","['4', 'doors']",(071) 911 5333,Sligo
+102,Mercedes-Benz A-Class,A 250 e AMG Line Auto,"€43,950",1.3,Petrol Plug-in Hybrid,Hatchback,Automatic,Iridium Silver Metallic,"13,000 km",2021 (211),"['1', 'owner']","['5', 'doors']",(01) 665 6600,Dublin
+103,Jaguar F-PACE,2.0 i4 D 180PS Prestige Auto 4WD,"€37,950",2.0,Diesel,SUV,Automatic,Grey,"77,000 km",2017 (171),"['2', 'owners']","['5', 'doors']",(01) 513 6367,Dublin
+104,Audi A1,1.0TFSI 95HP S-LINE 2DR,"€18,999",1.0,Petrol,Hatchback,Manual,Mythos Black (Metallic),"64,001 km",2017 (172),"['2', 'owners']","['2', 'doors']",(01) 902 3493,Dublin
+105,Alfa Romeo Giulia,2.1 Super Saloon Diesel Automatic RWD (150bhp),"€24,750",2.1,Diesel,Saloon,Automatic,Grey,"155,000 km",2017 (172),"['1', 'owner']","['4', 'doors']","(01) 826 6340, 087 829 2727",Dublin
+106,Audi A3,SALOON 1.6TDI 116HP S-LINE 4DR,"€29,999",1.6,Diesel,Saloon,Manual,Ara Blue Crystal Effect,"46,001 km",2019 (192),"['2', 'owners']","['4', 'doors']",(01) 902 3493,Dublin
+107,Audi A3,SALOON 30 TFSI 110HP SE €312 p/m PCP,"€32,775",1.0,Petrol,Saloon,Manual,Grey,"11,767 km",2022 (221),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+108,Hyundai i20,DELUXE AUTO *COMING SOON*,"€17,950",1.4,Petrol,Hatchback,Automatic,White,"90,250 km",2018 (181),"['2', 'owners']","['5', 'doors']",(091) 771 111,Galway
+109,Hyundai i30,Petrol Deluxe NLine,"€24,995",1.0,Petrol,Hatchback,Manual,Grey,"39,002 km",2021 (212),"['1', 'owner']","['5', 'doors']",(021) 475 7333,Cork
+110,Mercedes-Benz A-Class,A250e Saloon AMG @ MERCEDES-BENZ SOUTH DUBLIN,"€51,945",1.3,Petrol Plug-in Hybrid,Saloon,Automatic,Mountain Grey,"7,808 km",2022 (221),"['1', 'owner']","['4', 'doors']",(01) 236 9200,Dublin
+111,Audi A3,SALOON 1.0TFSI 115HP SE 4DR,"€27,999",1.0,Petrol,Saloon,Manual,Brilliant Black,"30,935 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+112,Audi A3,SALOON 30 TFSI 110HP SE,"€34,999",1.0,Petrol,Saloon,Manual,Ibis White,"2,001 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+113,Audi A3,A3 SPORTBACK 1.0 30TFSI 110BHP S-LINE WITH COMFORT PACK AND BLACK STYLING,"€38,995",1.0,Petrol,Hatchback,Manual,Ibis White,"12,934 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+114,Audi A1,1.2 TFSI SPORT SPORTBACK,"€16,900",1.2,Petrol,Hatchback,Manual,Silver,"84,898 km",2015 (151),"['2', 'owners']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+115,Jaguar F-PACE,2.0 D (180PS) Prestige Automatic,"€35,950",2.0,Diesel,SUV,Automatic,Loire Blue Metallic,"107,000 km",2017 (171),"['3', 'owners']","['5', 'doors']",(01) 513 6367,Dublin
+116,Alfa Romeo Stelvio,AWD AUTO SPECIALE,"€37,995",2.1,Diesel,Estate,Automatic,Blue,"58,739 km",2018 (181),"['1', 'owner']","['5', 'doors']",(01) 278 4597,Dublin
+117,Cupra Formentor,FORMENTOR VZ 2.0 TSI 310BHP  DA 5,"€71,995",2.0,Petrol,SUV,Automatic,Black,"1,000 km",2022 (222),"['1', 'owner']","['5', 'doors']",(041) 213 4062,Louth
+118,Audi A1,1.0TFSI 95HP,"€17,900",1.0,Petrol,Hatchback,Manual,White,"43,510 km",2016 (161),"['3', 'owners']","['4', 'doors']",(021) 491 6300,Cork
+119,Volkswagen Taigo,LIFE 1.0TSI 95HP,"€29,400",1.0,Petrol,SUV,Manual,Grey,100 km,2022 (222),"['1', 'owner']","['5', 'doors']",(01) 850 3925,Dublin
+120,Audi A3,A3 SPORTBACK 1.0TFSI 115BHP SE,"€25,995",1.0,Petrol,Hatchback,Manual,Blue,"37,500 km",2018 (182),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+121,Audi A3,35 TFSI 150HP S Tronic SE €355 p/m PCP,"€35,775",1.5,Petrol,Hatchback,Automatic,Grey,"31,950 km",2022 (221),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+122,BMW 3 Series,"ES Z3AO 5DR **WAS ?13,995, NOW ?12,995**","€12,995",2.0,Diesel,Saloon,Manual,Black,"150,233 km",2013 (131),"['2', 'owners']","['4', 'doors']",(021) 603 6468,Cork
+123,BMW 5 Series,530e M Sport Saloon,"€54,800",2.0,Petrol Plug-in Hybrid,Saloon,Automatic,Black Sapphire Metallic Paint,"24,551 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 864 7781,Dublin
+124,Audi A3,Saloon 1.6TDI 116BHP SE - S-Line Ext.,"€31,950",1.6,Diesel,Saloon,Manual,Floret Silver (Metallic),"38,125 km",2020 (202),"['1', 'owner']","['4', 'doors']",(090) 644 9250,H548
+125,A1,1.4 AUTOMATIC n,"€10,500",1.4,Petrol,Hatchback,Automatic,Red,"120,998 km",2012,"['1', 'owner']","['3', 'doors']",(01) 890 1921,PX34
+126,Audi A1,1.0 AUTO  SPORTBACK 5DR *RED WITH BLACK ROOF**LOW MILEAGE*,"€18,750",1.0,Petrol,Hatchback,Automatic,Red With Black Roof,"93,000 km",2017 (171),"['1', 'owner']","['5', 'doors']","(01) 866 0900, 086 258 2332",Dublin
+127,Audi A1,S-LINE  5DDR SPORTBACK 1.6 TDI 90,"€12,995",1.6,Diesel,Hatchback,Manual,Silver,"116,452 km",2014 (141),"['4', 'owners']","['5', 'doors']",(01) 513 5175,Wicklow
+128,Audi A1,1.2 TFSI SPORTBACK**NEW NCT**TAX TILL 02/23**AIR CONDITIONING**PHONE CONNECTIVITY**HEATED MIRRORS**FULL ELECTRICS**MULTI-FUNC. STEERING WHEEL**HISTORY,"€14,495",1.2,Petrol,Hatchback,Manual,White,"96,498 km",2014 (142),"['3', 'owners']","['5', 'doors']",(01) 963 3250,XY07
+129,Audi A3,A3 SALOON 1.0TFSI 116BHP SE WITH S-LINE EXTERIOR,"€28,995",1.0,Petrol,Saloon,Manual,Grey,"51,463 km",2019 (191),"['2', 'owners']","['4', 'doors']",(021) 601 9040,Cork
+130,Audi A1,30 TFSI 110HP SE,"€30,500",1.0,Petrol,Hatchback,Manual,Brilliant Black,70 km,2022 (222),"['1', 'owner']","['4', 'doors']",(061) 607 304,Limerick
+131,Audi A1,30 TFSI 110HP S-T SE - €312 p/m[PCP],"€30,975",1.0,Petrol,Hatchback,Automatic,Manhattan Grey (Metallic),"25,305 km",2022 (221),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+132,Audi A1,1.4 AUTOMATIC,"€13,900",1.4,Petrol,Hatchback,Automatic,White,"102,998 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 890 1921,PX34
+133,Audi A3,SPORTBACK 30 TFSI 110HP S-LINE 5DR,"€41,999",1.0,Petrol,Hatchback,Manual,Mythos Black (Metallic),"2,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+134,BMW 1 Series,116d Sport,"€34,400",1.5,Diesel,Hatchback,Automatic,Glacier Silver,"22,606 km",2020 (202),"['2', 'owners']","['5', 'doors']",(021) 235 5107,Cork
+135,Audi A1,1.2 TFSI SPORT SPORTBACK,"€12,995",1.2,Petrol,Hatchback,Manual,White,"144,314 km",2013 (131),"['3', 'owners']","['4', 'doors']",(021) 603 6468,Cork
+136,Audi A3,1.0TFSI 115 SE From 304 pm,"€29,450",1.0,Petrol,Saloon,Manual,Blue,"43,400 km",2019 (191),"['2', 'owners']","['4', 'doors']",(074) 912 2333,Donegal
+137,Audi A1,1.4TDi SB  SLine LOW KMS MINT,"€22,500",1.4,Diesel,Hatchback,Manual,Red,"35,110 km",2017 (172),"['1', 'owner']","['4', 'doors']",(01) 903 8070,Dublin
+138,A1,A1 1.2TFSI 86BHP,"€12,950",1.2,Petrol,Hatchback,Manual,Red,"41,247 km",2012,"['2', 'owners']","['3', 'doors']",(021) 601 9036,Cork
+139,Audi A1,1.4 AUTOMATIC,"€13,950",1.4,Petrol,Hatchback,Automatic,Black,"112,999 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 890 1921,PX34
+140,Audi Q5,"40TDI QUATTRO S-T SE 4DR Auto*BLACK WITH BLACK LEATHER, PANORAMIC ROOF, ELECTRIC TAILGATE, APPLE CARPLAY / ANDROID AUTO, HEATED SEATS, USB, CRUISE AND","€52,945",2.0,Diesel,Estate,Automatic,Black,"56,000 km",2020 (201),"['1', 'owner']","['4', 'doors']",(01) 462 4100,D24AX84
+141,Ford Focus,1.5TDCI 95BHP 5DR TITANIUM,"€17,995",1.5,Diesel,Hatchback,Manual,Grey,"64,164 km",2017 (172),"['1', 'owner']","['4', 'doors']",(021) 603 6468,Cork
+142,A1,1.4 PETROL SPORT AUTO,"€11,495",1.4,Petrol,Hatchback,Automatic,White,"189,000 km",2012,"['2', 'owners']","['5', 'doors']","(01) 401 1599, 087 149 6692",Dublin
+143,Mercedes-Benz A-Class,A35 AMG 4MATIC Premium Auto,"€59,950",2.0,Petrol,Hatchback,Automatic,Moonstone White Metallic,"42,250 km",2020 (202),"['1', 'owner']","['5', 'doors']",(01) 665 6600,Dublin
+144,Audi A3,"SPORTBACK 30 TDI 116HP SE ""Includes €2,000 Scrappage""","€37,900",2.0,Diesel,Hatchback,Manual,Grey,"1,500 km",2022 (222),"['1', 'owner']","['4', 'doors']",(056) 775 1788,Kilkenny
+145,Audi A3,"Saloon TDI SE ""S-Line Exterior""","€28,950",1.6,Diesel,Saloon,Manual,Floret Silver (Metallic),"65,625 km",2019 (192),"['2', 'owners']","['4', 'doors']",(051) 337 600,Waterford
+146,Audi A1,SPORTBACK 5DR,"€18,950",1.0,Petrol,Hatchback,Automatic,Silver,"42,827 km",2016 (162),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+147,Audi A1,"30 TFSI 110HP S-LINE 4DR - MANAGER SPECIAL WAS €36,999 NOW €34,999","€34,999",1.0,Petrol,Hatchback,Manual,Arrow Grey,"1,501 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+148,A1,1.4i AUTO SPORT 5DR (122bhp)...HUGE SPEC...VERY CLEAN CAR...FINANCE AVAILABLE...,"€11,950",1.4,Petrol,Hatchback,Automatic,Blue,"115,286 km",2012,"['1', 'owner']","['5', 'doors']",(01) 860 0300,Dublin
+149,Audi A3,SE 30 2.0TDI 6SPEED 116BHP*SALE NOW ON STRAIGHT DEAL OFFERS*,"€36,500",2.0,Diesel,Saloon,Manual,Grey,"33,000 km",2021 (212),"['1', 'owner']","['4', 'doors']","(090) 974 1077, 087 638 5033",Galway
+150,Audi A1,1.0 TFSi S-Line Sportback,"€18,900",1.0,Petrol,Hatchback,Manual,White,"66,357 km",2017 (171),"['2', 'owners']","['4', 'doors']",(01) 293 9304,Dublin
+151,Mercedes-Benz A-Class,A 200 Saloon Sport Auto,"€34,950",1.3,Petrol,Saloon,Automatic,Mountain Grey Metallic,"26,250 km",2019 (192),"['1', 'owner']","['4', 'doors']",(01) 665 6600,Dublin
+152,Audi A3,S-LINE PACK - 30 TFSI 116HP @ FRANK KEANE VOLKSWAGEN SOUTH DUBLIN,"€30,495",1.0,Petrol,Saloon,Manual,Red,"27,748 km",2020 (201),"['1', 'owner']","['4', 'doors']",(01) 654 6000,W860
+153,BMW 3 Series,320D M Sport GT,"€30,999",2.0,Diesel,Saloon,Automatic,Grey,"58,426 km",2017 (171),"['2', 'owners']","['4', 'doors']",(01) 531 4520,Dublin
+154,Audi A1,1.4 Hatchback Petrol Automatic (122bhp),"€12,500",1.4,Petrol,Hatchback,Automatic,Black,"110,670 km",2013 (131),"['2', 'owners']","['3', 'doors']",083 125 6070,"class=""fpa-actions__sub-title"">Dublin"
+155,Audi A3,"2.0TDI S Line - Black Styling Pack - 116HP - Saloon - SAVE €3,276 vs NEW - PCP from €438pm -","€40,950",2.0,Diesel,Saloon,Manual,Navarra Blue,"14,140 km",2022 (221),"['1', 'owner']","['4', 'doors']",(071) 911 5333,Sligo
+156,Audi A3,"2.0TDI S Line + Comfort Pack - 116HP - Saloon - SAVE €3,659 vs NEW - PCP from €459pm","€41,950",2.0,Diesel,Saloon,Manual,Mythos Black (Metallic),"14,200 km",2022 (221),"['1', 'owner']","['5', 'doors']",(071) 911 5333,Sligo
+157,Ford Fiesta,1.25 60PS ZETEC,"€12,750",1.2,Petrol,Hatchback,Manual,Silver,"86,020 km",2016 (161),"['3', 'owners']","['5', 'doors']",(01) 513 6803,Dublin
+158,Hyundai i30,PETROL 5DR,"€27,495",1.0,Petrol,Hatchback,Manual,Grey,"1,255 km",2022 (221),"['1', 'owner']","['5', 'doors']",(021) 475 7333,Cork
+159,Audi A1,S LINE 5 DOOR 1.4TFSI 125HP,"€17,950",1.4,Petrol,Hatchback,Manual,Black,"44,018 km",2016 (162),"['3', 'owners']","['5', 'doors']",(01) 901 5755,FD23
+160,Audi A6,AUTO 2.0TDI 190 S-LINE,"€35,950",2.0,Diesel,Saloon,Automatic,Grey,"46,000 km",2018 (181),"['1', 'owner']","['5', 'doors']",(01) 513 6878,Wicklow
+161,BMW 5 Series,"520D M SPORT AUTO 11 - MANAGER SPECIAL - WAS €23,999 NOW €20,999","€20,999",2.0,Diesel,Saloon,Automatic,Black,"173,956 km",2016 (161),"['2', 'owners']","['4', 'doors']",(01) 531 4520,Dublin
+162,Audi A3,SAL 1.6 TDI 116 S-LINE,"€31,000",1.6,Diesel,Saloon,Manual,Ibis White,"46,000 km",2019 (192),"['1', 'owner']","['4', 'doors']",(061) 607 304,Limerick
+163,Audi A3,1.6 TDI 116HP SE 30 SALOON,"€27,750",1.6,Diesel,Saloon,Manual,Black,"65,732 km",2019 (192),"['1', 'owner']","['4', 'doors']",(01) 456 5511,D12XV2H
+164,Audi A3,SALOON SE 1.5 TFSI 150BHP NCT 01/24 *IRISH CAR* FINANCE AVAILABLE @ €131 PER WEEK 2 KEYS/ SERVICE HISTORY/ POP UP SCREEN/ AUDI MMI/ PARKING SENSORS/,"€28,999",1.5,Petrol,Saloon,Manual,Grey,"24,489 km",2020 (201),"['1', 'owner']","['4', 'doors']","(01) 456 5236, 087 600 3867",Dublin
+165,Jaguar F-Type,2.0 I4 300 PS RWD Auto,"€71,950",2.0,Petrol,Coupe,Automatic,Grey,"32,560 km",2019 (191),"['1', 'owner']","['2', 'doors']",(01) 513 6367,Dublin
+166,Audi A3,2.0TDI 116BHP S LINE SPORTBACK - COMFORT PACK,"€44,995",2.0,Diesel,Hatchback,Manual,Navarra Blue,"2,135 km",2022 (222),"['1', 'owner']","['4', 'doors']",(091) 336 000,Galway
+167,Audi A3,"1.0TFSI 115 S-Tronic S Line 4Dr - Digital Dash , Full Leather Heated Seats , Diamond Turned Aalloys s","€41,500",1.0,Petrol,Saloon,Automatic,Grey,"19,900 km",2021 (211),"['2', 'owners']","['4', 'doors']",(01) 462 4100,D24AX84
+168,Audi A1,SPORTBACK 1.0 TFSI 95 S LINE 4DR,"€18,950",1.0,Petrol,Hatchback,Manual,White,"54,874 km",2017 (172),"['2', 'owners']","['5', 'doors']","(01) 490 1134, 086 440 4263",Dublin
+169,Audi A3,LIMOUSINE SAL 30 TDI 116HP S LINE 4DR,"€40,945",2.0,Diesel,Saloon,Manual,Blue,"45,600 km",2021 (212),"['1', 'owner']","['4', 'doors']","(059) 918 6032, 087 146 4747",Carlow
+170,Audi A1,1.4 TFSI AUTOMATIC MODEL // ALLOY WHEELS // NEW NCT TILL 08/24 // FINANCE THIS CAR FROM ONLY €61 PER WEEK,"€15,700",1.4,Petrol,Hatchback,Automatic,Red,"61,338 km",2015 (151),"['1', 'owner']","['3', 'doors']",(01) 456 9562,D22XK49
+171,Audi A3,A3 SPORTBACK 1.0TFSI 116BHP SE,"€27,995",1.0,Petrol,Hatchback,Manual,Grey,"49,854 km",2019 (191),"['2', 'owners']","['4', 'doors']",(021) 601 9040,Cork
+172,Audi A1,1.4i S-LINE EXTERIOR PACK AUTO (122bhp),"€15,950",1.4,Petrol,Hatchback,Automatic,White,"103,295 km",2014 (141),"['1', 'owner']","['5', 'doors']",(01) 860 0300,Dublin
+173,Audi A1,"1.4 TSI 5DR AUTO.Stunning car with only 87km, 2 Keys, New NCT, €200 Road Tax. Alloy Wheels, Bluetooth, Privacy Glass, Fog Lamps, Parcel Shelf, MFSW,","€13,950",1.4,Petrol,Hatchback,Automatic,Red,"86,999 km",2013 (132),"['1', 'owner']","['5', 'doors']","(01) 621 5751, 087 051 2486",Dublin
+174,Land Rover Discovery,DISCOVERY 3.0 SDV6 HSE,"€59,950",3.0,Diesel,Unlisted,Automatic,Grey,"83,000 km",2020 (201),"['1', 'owner']","['5', 'doors']",(01) 513 6878,Wicklow
+175,Audi A3,SE 35 TFSI SPORTBACK 150HP MANUAL @ FRANK KEANE VOLKSWAGEN SOUTH DUBLIN,"€34,995",1.5,Petrol,Hatchback,Manual,White,"20,518 km",2021 (211),"['2', 'owners']","['4', 'doors']",(01) 654 6000,W860
+176,Audi A1,SPORTBACK 1.0 TFSI 95 4DR,"€18,950",1.0,Petrol,Hatchback,Manual,Grey,"101,696 km",2017 (171),"['3', 'owners']","['5', 'doors']","(01) 450 7599, 087 190 5146",Dublin
+177,BMW 5 Series,520d SE,"€57,995",2.0,Diesel,Saloon,Automatic,Bernina Grey,"29,687 km",2022 (221),"['1', 'owner']","['4', 'doors']",(090) 640 6088,Westmeath
+178,BMW 5 Series,530e M Sport Auto,"€31,995",2.0,Petrol Plug-in Hybrid,Saloon,Automatic,White,"100,000 km",2017 (172),"['2', 'owners']","['4', 'doors']",(021) 475 7333,Cork
+179,Toyota Prius,1.8 Hybrid **HEAD UP DISPLAY**FRONT AND REAR PARKING SENSORS**REVERSE CAMERA**PRIVACY GLASS**,"€19,490",1.8,Petrol Hybrid,Hatchback,Automatic,White,"122,215 km",2017 (171),"['1', 'owner']","['5', 'doors']",(01) 485 1267,D12
+180,Audi A3,Saloon 1.6TDI 116BHP SE - S-Line Ext.,"€28,950",1.6,Diesel,Saloon,Manual,Cosmos Blue (Metallic),"75,405 km",2019 (191),"['1', 'owner']","['4', 'doors']",(090) 644 9250,H548
+181,Audi A3,116BHP S LINE 30 TDI - BLACK PACK & COMFORT PACK,"€46,387",2.0,Diesel,Saloon,Manual,Black,"2,354 km",2022 (222),"['1', 'owner']","['4', 'doors']",(091) 336 000,Galway
+182,Audi A3,SALOON 30 TDI 116HP SE,"€38,999",2.0,Diesel,Saloon,Manual,Floret Silver (Metallic),"4,868 km",2022 (221),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+183,Audi A3,S-line/Stunning Car/1.4 TFSI,"€30,900",1.4,Petrol,Saloon,Automatic,Black,"51,788 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 283 2044,Dublin
+184,A3,1.4 TFSI SPORTBACK,"€14,999",1.4,Petrol,Hatchback,Automatic,White,"128,525 km",2012,"['2', 'owners']","['5', 'doors']",(01) 531 4520,Dublin
+185,Audi A3,SAL 30 TFSI 116HP SE,"€28,950",1.0,Petrol,Saloon,Manual,Black,"23,005 km",2020 (202),"['1', 'owner']","['4', 'doors']",(061) 225 225,Limerick
+186,Alfa Romeo Giulietta,1.4TB Mair 150hp Super,"€17,900",1.4,Petrol,Hatchback,Manual,Red,"30,468 km",2018 (182),"['1', 'owner']","['4', 'doors']",(01) 255 1216,Cork
+187,DS Automobiles DS5,*PRESTIGE PAN ROOF/LEATHER* 180BHP,"€19,950",2.0,Diesel,MPV,Manual,Grey Metallic,"69,520 km",2017 (171),"['3', 'owners']","['4', 'doors']",(01) 513 6803,Dublin
+188,Audi A3,30 TFSI 110HP SE,"€33,700",1.0,Petrol,Saloon,Manual,Grey,"5,659 km",2021 (211),"['2', 'owners']","['4', 'doors']",(061) 607 304,Limerick
+189,Audi A3,A3 SALOON 1.0 30TFSI 110BHP SE WITH HEATED SEATS & REVERSING CAMERA,"€35,995",1.0,Petrol,Saloon,Manual,Black,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+190,Audi A3,SALOON 30 TFSI 110HP SE,"€34,499",1.0,Petrol,Saloon,Manual,Ibis White,"2,001 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+191,Audi A6,2.0 TDI SE BUSINESS EDITION S-TRONIC 4DR AUTOMATIC,"€19,950",2.0,Diesel,Saloon,Automatic,Blue,"168,977 km",2015 (151),"['2', 'owners']","['4', 'doors']",(01) 280 6916,Dublin
+192,Volkswagen Tiguan,2.0 TDI 150HP Highline DSG,"€37,900",2.0,Diesel,SUV,Manual,Grey,"89,100 km",2018 (182),"['1', 'owner']","['5', 'doors']",(01) 850 3965,Dublin
+193,Audi A1,S-LINE 5DR AUTO,"€13,950",1.4,Petrol,Hatchback,Automatic,Black,"135,999 km",2013 (132),"['1', 'owner']","['5', 'doors']","(01) 551 2345, 086 418 0248",Meath
+194,Audi A3,30 TDI 116HP SE Immaculate condition,"€31,945",1.6,Diesel,Saloon,Manual,Grey,"89,000 km",2020 (201),"['1', 'owner']","['4', 'doors']",(091) 423 390,Galway
+195,Romeo Spider,1.6L CABRIOLET LEFT HAND DRIVE 115...EXCEPTIONAL EXAMPLE...,"€24,950",1.6,Petrol,Convertible,Manual,White,"77,325 km",1989,"['1', 'owner']","['2', 'doors']",(01) 860 0300,Dublin
+196,Audi A3,"*WAS €34000, NOW €30900* 30 TFSI 110HP SE","€30,900",1.0,Petrol,Hatchback,Manual,Manhattan Grey (Metallic),"17,000 km",2020 (202),"['1', 'owner']","['4', 'doors']",(061) 607 304,Limerick
+197,Audi A3,SB 1.5TFSI 150HP S LINE,"€31,950",1.5,Petrol,Hatchback,Manual,Blue,"57,178 km",2019 (191),"['2', 'owners']","['4', 'doors']",(045) 906 666,Kildare
+198,Mercedes-Benz A-Class,A 180 A/T Progressive-Line,"€34,950",1.3,Petrol,Hatchback,Automatic,Red,"18,897 km",2020 (201),"['1', 'owner']","['5', 'doors']",(021) 240 8600,Cork
+199,Dacia Duster,1.5 Blue dCi 115 Essential,"€21,990",1.5,Diesel,SUV,Manual,Glacier White,"13,453 km",2021 (211),"['1', 'owner']","['4', 'doors']",(021) 235 5350,Cork
+200,Audi A1,1.0TFSI 95HP S Tronic 3 DR,"€17,490",1.0,Petrol,Hatchback,Automatic,Red,"55,662 km",2016 (162),"['1', 'owner']","['3', 'doors']",(01) 485 1267,D12
+201,Audi A1,1.0 PETROL SPORTBACK *PAN ROOF*,"€15,950",1.0,Petrol,Hatchback,Manual,Floret Silver (Metallic),"55,742 km",2015 (152),"['1', 'owner']","['5', 'doors']",(096) 79000,Mayo
+202,Audi A1,TWO TONE 3 DOOR 1.4 TFSI AUTOMATIC,"€13,950",1.4,Petrol,Hatchback,Automatic,Wine / Silver,"71,165 km",2013 (131),"['1', 'owner']","['3', 'doors']",089 402 9721,Dublin
+203,Audi A3,"A3 SPORTBACK 30 TDI 116BHP SE *WAS ?37,990 NOW ?35,995*","€35,995",2.0,Diesel,Hatchback,Manual,Black,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+204,Audi A1,"5DR AUTO. Stunning car with 2 Keys, New NCT, €200 Road Tax. Alloy Wheels, Bluetooth, Privacy Glass, Fog Lamps, Parcel Shelf, MFSW, Auto Lights, Immo","€12,950",1.4,Petrol,Hatchback,Automatic,Red,"134,999 km",2013 (131),"['1', 'owner']","['5', 'doors']","(01) 621 5751, 087 051 2486",Dublin
+205,Mercedes-Benz GLE-Class,300 d 7 Seater 4MATIC AMG Exerior Night Package Auto,"€85,950",2.0,Diesel,SUV,Automatic,Selenite Grey Metallic,"38,975 km",2020 (201),"['1', 'owner']","['5', 'doors']",(01) 665 6600,Dublin
+206,Volkswagen Golf,"Very Nice Example, Highline Spec, Sat Nav,Rear Camera,Keyless Entry,App Connect 1.0 Tsi 110 Bhp","€21,945",1.0,Petrol,Hatchback,Manual,Tungsten Silver,"106,800 km",2018 (181),"['2', 'owners']","['5', 'doors']",(091) 423 390,Galway
+207,Audi A6,HYBRID 299HP QUATRO S-LINE*,"€56,890",2.0,Petrol Plug-in Hybrid,Saloon,Automatic,Blue,"17,099 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 485 1267,D12
+208,Audi A3,A3 SALOON 1.0 30TFSI 110BHP SE WITH HEATED SEATS & REVERSING CAMERA,"€35,995",1.0,Petrol,Saloon,Manual,Silver (Metallic),500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+209,Audi A3,30 TFSI 110HP Attraction,"€31,000",1.0,Petrol,Hatchback,Manual,Black,"3,440 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 858 0208,Dublin
+210,Ford Kuga,2.0 TDCi AWD TITANIUM,"€24,950",2.0,Diesel,SUV,Manual,Black,"67,000 km",2017 (171),"['1', 'owner']","['4', 'doors']",(01) 513 6803,Dublin
+211,BMW 3 Series,D SE 4DR AUTO LOW MILEAGE,"€19,950",2.0,Diesel,Saloon,Automatic,Silver,"86,238 km",2016 (161),"['4', 'owners']","['4', 'doors']",(01) 280 6916,Dublin
+212,Audi A6,ESTATE 204HP S LINE,"€54,900",2.0,Diesel,Estate,Automatic,Black,"69,000 km",2020 (201),"['1', 'owner']","['5', 'doors']",(01) 513 6352,Dublin
+213,Audi A3,1.6TDI 116HP S Line + Future Now Pack - Finance From €385pm - Saloon,"€32,950",1.6,Diesel,Saloon,Manual,Floret Silver (Metallic),"44,428 km",2020 (201),"['2', 'owners']","['4', 'doors']",(071) 911 5333,Sligo
+214,Martin Vanquish,5.9 V12 COUPE (460 BHP)=LOW MILEAGE//2 OWNERS//DUBLIN REGISTERED=FULL DOCUMENTED ASTON MARTIN SERVICE HISTORY=TRADE IN'S WELCOME,"€99,995",5.9,Petrol,Coupe,Automatic,Black,"43,451 km",2003,"['2', 'owners']","['2', 'doors']",(01) 832 1222,Dublin
+215,Audi A1,1.4 TFSI SPORT AUTOMATIC  120BHP 5 DOOR,"€13,995",1.4,Petrol,Hatchback,Automatic,Red,"88,999 km",2013 (131),"['1', 'owner']","['5', 'doors']",087 187 4841,XR20
+216,Audi A1,1.0 TFSI 95 2 DR,"€20,950",1.0,Petrol,Hatchback,Manual,White,"109,101 km",2018 (181),"['2', 'owners']","['2', 'doors']",(045) 906 666,Kildare
+217,Audi A3,40 TFSI PHEV SE S-tronic,"€38,995",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Mythos Black,"4,200 km",2022 (221),"['1', 'owner']","['5', 'doors']",(091) 383 000,R6CP
+218,Audi A3,"A3 SPORTBACK 2.0 30TDI S-LINE WITH COMFORT PACK *WAS ?44,036 NOW ?41,995*","€41,995",2.0,Diesel,Hatchback,Manual,Daytona Grey (Pearl Effect),500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+219,Audi A3,A3 SPORTBACK 1.0 30TFSI 110BHP SE WITH COMFORT PACK,"€34,995",1.0,Petrol,Hatchback,Manual,Brilliant Black,"13,000 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+220,A4,1.8 TFSI 120 MULTI 4DR AUTOMATIC,"€10,950",1.8,Petrol,Saloon,Automatic,Black,"159,771 km",2012,"['3', 'owners']","['4', 'doors']",(01) 280 6916,Dublin
+221,BMW 5 Series,530e SE Auto,"€31,999",2.0,Petrol Plug-in Hybrid,Saloon,Automatic,Blue,"109,656 km",2018 (181),"['1', 'owner']","['4', 'doors']",(01) 531 4520,Dublin
+222,BMW 2 Series Active Tourer,216d SE Active Tourer,"€24,500",1.5,Diesel,Estate,Manual,Jet Black,"61,636 km",2017 (171),"['3', 'owners']","['4', 'doors']",(01) 864 7781,Dublin
+223,Audi A3,A3 SPORTBACK  2.0 30TDI 116BHP SE WITH COMFORT PACK,"€37,995",2.0,Diesel,Hatchback,Manual,Grey,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+224,Dacia Duster,Prestige Blue dCi,"€28,890",1.5,Diesel,SUV,Manual,Glacier White,100 km,2022 (222),"['1', 'owner']","['5', 'doors']",(021) 235 5298,Cork
+225,Audi A3,Sport 30 TDI #40,"€26,950",1.6,Diesel,Saloon,Manual,Black,"129,037 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 920 3991,W025
+226,Audi A3,1.6TDI 116 S Line,"€30,900",1.6,Diesel,Saloon,Manual,Grey,"63,767 km",2019 (191),"['2', 'owners']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+227,Audi A1,SPORTBACK 30 TFSI 110HP S-LINE 4DR BLACK EDITION,"€36,950",1.0,Petrol,Hatchback,Manual,Mythos Black (Metallic),21 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+228,Honda Jazz,DAA-GP5 HYBRID 5DR AUTO,"€13,890",1.5,Petrol Hybrid,Hatchback,Automatic,Blue,"84,942 km",2016 (161),"['1', 'owner']","['5', 'doors']",(021) 475 7261,Cork
+229,Audi A3,1.0TFSI AUTO 5DR 115 BHP S-TRONIC SE,"€27,950",1.0,Petrol,Hatchback,Automatic,Black,"17,732 km",2019 (191),"['1', 'owner']","['5', 'doors']",(01) 901 5755,FD23
+230,Mercedes-Benz C-Class,C 180 A/T Avantgarde,"€59,950",1.5,Petrol Hybrid,Saloon,Automatic,Red,"10,500 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 240 8600,Cork
+231,Audi A3,1.0TFSI 110BHP SE - COMFORT PACK,"€33,500",1.0,Petrol,Hatchback,Manual,Tango Red (Metallic),"11,249 km",2021 (211),"['1', 'owner']","['4', 'doors']",(091) 336 000,Galway
+232,Audi A1,1.6 TDI S-LINE SPORTBACK,"€15,995",1.6,Diesel,Hatchback,Manual,White,"80,000 km",2015 (151),"['3', 'owners']","['5', 'doors']",(01) 278 4597,Dublin
+233,Audi A8,3.0TDI 286HP Q TIP LUXURY,"€98,950",3.0,Diesel,Saloon,Automatic,Grey,"8,820 km",2021 (211),"['1', 'owner']","['4', 'doors']",(045) 906 666,Kildare
+234,Audi TT,2.0TFSI S-LINE  AUTOMATIC CALL SEAN 0861025852,"€49,900",2.0,Petrol,Coupe,Automatic,Grey,"33,700 km",2019 (192),"['1', 'owner']","['2', 'doors']",(01) 513 6352,Dublin
+235,Audi A4,2.0TDI 122HP SE Ultra,"€27,950",2.0,Diesel,Saloon,Manual,Grey,"100,002 km",2018 (182),"['2', 'owners']","['4', 'doors']",(045) 455 900,Kildare
+236,Alfa Romeo Stelvio,2.0l Turbo 200hp AWD Sprint-LEATHER-CAMERA-SAT NAV,"€49,950",2.0,Petrol,SUV,Automatic,Black,"29,518 km",2021 (212),"['1', 'owner']","['5', 'doors']",(021) 432 0266,Cork
+237,Martin DB9,VOLANTE 6.0 V12...SIMPLY STUNNING...PREVIOUSLY SOLD BY US....,"€54,950",5.9,Petrol,Convertible,Automatic,Silver,"94,146 km",2006,"['6', 'owners']","['2', 'doors']",(01) 860 0300,Dublin
+238,Audi A3,1.0TFSI 115 SE SALOON,"€25,650",1.0,Petrol,Saloon,Manual,Brilliant Black,"60,355 km",2018 (182),"['2', 'owners']","['4', 'doors']",(096) 79000,Mayo
+239,BMW 2 Series,218i Sport Gran Coupe,"€41,950",1.5,Petrol,Coupe,Automatic,Melbourne Red,"26,670 km",2021 (212),"['2', 'owners']","['4', 'doors']",(061) 422 600,Limerick
+240,Land Rover Discovery Sport,2.0D 150PS FWD Manual S,"€47,900",2.0,Diesel,SUV,Manual,Eiger Grey,"48,525 km",2020 (201),"['2', 'owners']","['5', 'doors']",(01) 870 1474,Dublin
+241,Audi A1,1.0 TFSI SPORT AUTOMATIC MODEL // ALLOY WHEELS // PARKING SENSORS // FINANCE THIS CAR FROM ONLY €66 PER WEEK,"€16,750",1.0,Petrol,Hatchback,Automatic,Blue,"52,151 km",2015 (151),"['1', 'owner']","['5', 'doors']",(01) 456 9562,D22XK49
+242,Audi A3,SPORTBACK 30 TFSI 110HP SE,"€35,000",1.0,Petrol,Hatchback,Manual,Grey,15 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+243,Jaguar XE,2.0D SE 163BHP,"€19,950",2.0,Diesel,Saloon,Manual,Grey,"61,792 km",2016 (161),"['2', 'owners']","['4', 'doors']",(045) 455 900,Kildare
+244,Dacia Duster,"Essential 1.0 TCE 100,","€18,900",1.0,Petrol,SUV,Manual,Glacier White,"34,592 km",2020 (202),"['1', 'owner']","['5', 'doors']",(021) 235 5350,Cork
+245,Audi A3,30 TFSI 110HP SE,"€34,499",1.0,Petrol,Hatchback,Manual,Black,15 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+246,Audi A1,"A1 SPORTBACK 30 TFSI 110BHP S-LINE *WAS ?39,500 NOW ?37,995*","€36,995",1.0,Petrol,Hatchback,Manual,Grey,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+247,Audi A1,A1 Se Tdi  SE  TDi 116 Start/Stop,"€15,450",1.6,Diesel,Hatchback,Manual,Grey,"135,926 km",2015 (152),"['2', 'owners']","['3', 'doors']","(090) 643 2851, 086 822 2655",Longford
+248,Mercedes-Benz A-Class,A180 Progressive A/T,"€34,950",1.3,Petrol,Hatchback,Automatic,Mountain Grey Metallic,"47,000 km",2019 (191),"['1', 'owner']","['5', 'doors']",(051) 301 222,Waterford
+249,Audi A3,Saloon 30 Tfsi SE,"€39,459",1.0,Petrol,Saloon,Manual,Navarra Blue Metallic,940 km,2022 (222),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+250,Audi A1,"1.4 Petrol Sportback Auto, Two Tone Leather, Air Con, Bluetooth, 15"" Alloys","€12,999",1.4,Petrol,Hatchback,Automatic,White,"100,287 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 403 6700,Dublin
+251,Audi A4,2.0 TDI TECHNIK 136PS 4DR,"€13,900",2.0,Diesel,Saloon,Manual,Black,"247,776 km",2014 (141),"['2', 'owners']","['4', 'doors']",(021) 475 7261,Cork
+252,Audi A1,SPORTBACK 1.0 TFSI 95 S LINE 4DR,"€18,945",1.0,Petrol,Hatchback,Manual,Red,"74,028 km",2016 (162),"['3', 'owners']","['5', 'doors']","(045) 888 438, 086 887 7856",Kildare
+253,A1,1.4 TFSI 3DR,"€12,995",1.4,Petrol,Hatchback,Automatic,White,"106,000 km",2012,"['1', 'owner']","['3', 'doors']",(01) 507 7353,Dublin
+254,Audi A3,30 TDI 116HP SE SALOON,"€28,950",1.6,Diesel,Saloon,Manual,Brilliant Black,"76,642 km",2020 (202),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+255,Audi A3,Sportback S-Line 1.0L TFSI,"€28,950",1.0,Petrol,Hatchback,Manual,Grey,"18,045 km",2019 (192),"['1', 'owner']","['4', 'doors']",(01) 213 1770,Dublin
+256,Audi A3,40 TFSI e 204HP S-TRONIC SE,"€44,650",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Manhattan Grey (Metallic),22 km,2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+257,Audi A1,1.4 TFSI AUTOMATIC 3DR,"€15,500",1.4,Petrol,Hatchback,Automatic,Black,"50,579 km",2014 (141),"['1', 'owner']","['3', 'doors']",089 402 9721,Dublin
+258,Land Rover Discovery Sport,2.2 TDI XE Auto,"€27,999",2.2,Diesel,SUV,Automatic,Grey,"126,149 km",2015 (152),"['2', 'owners']","['5', 'doors']",(01) 531 4520,Dublin
+259,Volkswagen Tiguan,"2.0TDI Highline DSG Automatic, Panoramic Sunroof, Adaptive Cruise Control, Power Tail Gate, F&R Sensors with Camera, Heated Seats","€36,950",2.0,Diesel,SUV,Automatic,Grey,"58,356 km",2019 (191),"['1', 'owner']","['5', 'doors']",(01) 691 7760,Dublin
+260,Audi A5,2.0TFSI 190 S-Tronic SE,"€28,900",2.0,Petrol,Hatchback,Automatic,Black,"116,661 km",2018 (182),"['1', 'owner']","['4', 'doors']",(021) 475 7261,Cork
+261,Audi A3,*34* TDI SPORT,"€28,900",1.6,Diesel,Saloon,Manual,Black,"67,727 km",2019 (191),"['1', 'owner']","['4', 'doors']",087 173 7744,PW50
+262,Audi A3,1.0 TFSI 115 SE,"€27,950",1.0,Petrol,Hatchback,Manual,Black,"43,000 km",2019 (191),"['2', 'owners']","['4', 'doors']","087 747 7720, 087 231 6066",Kerry
+263,Toyota Yaris,VITZ 1.0 Terra **TOUCHSCREEN DISPLAY**REVERSE CAMERA**PRIVACY GLASS**,"€14,890",1.0,Petrol,Hatchback,Automatic,White,"104,275 km",2018 (181),"['1', 'owner']","['5', 'doors']",(01) 485 1267,D12
+264,Audi A3,1.6TDI S-LINE INDIVIDUAL - FULL AUDI SH,"€28,900",1.6,Diesel,Saloon,Manual,Blue,"85,751 km",2017 (171),"['2', 'owners']","['4', 'doors']",(021) 235 5244,Cork
+265,Audi A3,SB 1.6 TDI 116 SE,"€28,500",1.6,Diesel,Hatchback,Manual,Monsoon Grey,"58,115 km",2019 (191),"['2', 'owners']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+266,Audi Q3,35 TFSI 150HP SPORTBACK SE CALL 012163600,"€44,900",1.5,Petrol,SUV,Automatic,White,"20,103 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 513 6352,Dublin
+267,Audi A3,35 TFSI 150HP S Tronic S Line €469 p/m PCP,"€43,975",1.5,Petrol,Saloon,Automatic,Grey,"26,360 km",2022 (221),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+268,Audi A1,1.4 TFSI S TRONIC AUTO 3DR **VERY LOW MILAGE**START/STOP**REAR PARKING SENSORS**,"€14,890",1.4,Petrol,Hatchback,Automatic,Red,"21,100 km",2013 (132),"['1', 'owner']","['3', 'doors']",(01) 485 1267,D12
+269,Audi A1,SPORTBACK 1.6 TDI 90BHP 4DR*SALE NOW ON STRAIGHT DEAL OFFERS*,"€13,000",1.6,Diesel,Hatchback,Manual,Silver,"116,360 km",2013 (132),"['3', 'owners']","['4', 'doors']","(090) 974 1077, 087 638 5033",Galway
+270,Audi A1,2016 Sport Auto #48,"€20,950",1.4,Petrol,Hatchback,Automatic,White,"97,536 km",2016 (161),"['1', 'owner']","['5', 'doors']",(01) 920 3991,W025
+271,Audi A1,SPORT NAV TFSI,"€18,900",1.4,Petrol,Hatchback,Manual,Black,"127,135 km",2018 (181),"['2', 'owners']","['5', 'doors']","087 405 2180, (01) 419 9929",Dublin
+272,Audi A1,1.2 TFSI,"€9,950",1.2,Petrol,Hatchback,Manual,Black,"150,172 km",2013 (131),"['3', 'owners']","['2', 'doors']","(044) 934 8755, 087 359 2553",Westmeath
+273,Alfa Romeo Giulia,2.2 JTDM-2  160BHP SUPER SALOON  AUTO ( 191 REG ),"€29,950",2.2,Diesel,Saloon,Automatic,Blue,"138,109 km",2019 (191),"['1', 'owner']","['4', 'doors']","(059) 914 7619, 087 743 6175",X780
+274,Audi A1,* TWO TONE * 1.4 TFSI AUTOMATIC,"€14,950",1.4,Petrol,Hatchback,Automatic,Black / Silver,"70,635 km",2013 (131),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+275,Audi A3,Saloon 1.6TDI 116BHP SE - S-Line Ext.,"€28,950",1.6,Diesel,Saloon,Manual,Cosmos Blue (Metallic),"72,805 km",2019 (191),"['2', 'owners']","['4', 'doors']",(090) 644 9250,H548
+276,Audi A1,1.6 TDI SPORT 104BHP 3DR FINANCE AVAILABLE,"€13,995",1.6,Diesel,Hatchback,Manual,Black,"109,143 km",2014 (141),"['1', 'owner']","['3', 'doors']",(061) 446 033,Limerick
+277,Audi A3,1.6TDI 116 AUTO SE *S LINE EXTERIOR PACK*,"€28,250",1.6,Diesel,Saloon,Automatic,Brilliant Black,"50,231 km",2019 (192),"['3', 'owners']","['4', 'doors']",(096) 79000,Mayo
+278,Audi A1,1.4 TFSI AUTOMATIC MODEL // SOUGHT AFTER SAMOA ORANGE COLOUR // ALLOY WHEELS // BLUETOOTH // ARM REST // FINANCE THIS CAR FROM ONLY €63 PER WEEK,"€15,900",1.4,Petrol,Hatchback,Automatic,Orange,"89,947 km",2015 (151),"['1', 'owner']","['5', 'doors']",(01) 456 9562,D22XK49
+279,Audi A6,2.0TDI 150 Ultra S-Tronic S Line,"€27,950",2.0,Diesel,Saloon,Automatic,White,"120,000 km",2017 (171),"['3', 'owners']","['4', 'doors']",(061) 422 600,Limerick
+280,Alfa Romeo Giulietta,JTDM-2 VELOCE TCT.14000 MILES.MEGA SPEC.FINANCE.WWW.SARSFIELDMOTORS.IE..SIMI DEALER 2021,"€29,999",2.0,Diesel,Hatchback,Automatic,Black,"23,979 km",2019 (192),"['1', 'owner']","['5', 'doors']","(01) 473 8906, 087 963 0691",Dublin
+281,Audi A3,30 TDI 116HP SE,"€31,950",1.6,Diesel,Hatchback,Manual,Grey,"34,976 km",2020 (202),"['2', 'owners']","['4', 'doors']",(043) 334 6496,Longford
+282,Audi A3,30 TFSI 116HP SE + *COMFORT PACK*,"€38,500",2.0,Petrol,Saloon,Manual,Mythos Black (Metallic),2 km,2022 (222),"['1', 'owner']","['4', 'doors']",(061) 607 304,Limerick
+283,Audi A3,"30 TFSI 110HP SE - Comfort Pack - ""Price Includes €2,000 Scrappage""","€34,900",1.0,Petrol,Saloon,Manual,Navarra Blue,"12,500 km",2021 (212),"['1', 'owner']","['4', 'doors']",(056) 775 1788,Kilkenny
+284,Audi A1,1.4 AUTOMATIC,"€13,950",1.4,Petrol,Hatchback,Automatic,Black,"58,999 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 890 1921,PX34
+285,Audi A1,"1.4 Petrol Plus Limited Auto, 17"" Alloys, Privacy Glass, Air Con, Bluetooth","€15,999",1.4,Petrol,Hatchback,Automatic,Red,"89,716 km",2015 (151),"['1', 'owner']","['3', 'doors']",(01) 403 6700,Dublin
+286,BMW 1 Series,116d M Sport Shadow Edition 5-door,"€24,900",1.5,Diesel,Hatchback,Manual,Black Sapphire Metallic Paint,"58,244 km",2018 (181),"['4', 'owners']","['5', 'doors']",(021) 235 5107,Cork
+287,Audi A1,1.6 TDI S LINE STYLE ED. 105 105PS,"€11,950",1.6,Diesel,Hatchback,Manual,Red,"230,807 km",2014 (142),"['3', 'owners']","['3', 'doors']","(021) 496 8555, 086 045 2354",Cork
+288,BMW 1 Series,116d SE 3 Door,"€14,950",2.0,Diesel,Estate,Manual,Black,"93,021 km",2013 (131),"['2', 'owners']","['2', 'doors']",(061) 422 600,Limerick
+289,A1,1.4 TFSI DBA-8XCAX 120BHP 3 3DR,"€10,995",1.4,Petrol,Hatchback,Automatic,Brown,"119,999 km",2012,"['2', 'owners']","['3', 'doors']",087 187 4841,XR20
+290,Audi A3,"1.6 SE SALOON AUTOMATIC * STUNNING BLUE COLOUR, PARKING SENSORS, 17"" ALLOYS, CRUISE CONTROL, BLUETOOTH *PART LEATHER TRIM","€28,950",1.6,Diesel,Saloon,Automatic,Blue,"75,532 km",2019 (192),"['1', 'owner']","['4', 'doors']",(068) 21090,Kerry
+291,Audi A1,*** STUNNING AUDI A1 1.0TFSI 95HP S LINE  *** 12 MONTH WARRANTY *** FINANCE AVAILABLE ***,"€17,950",1.0,Petrol,Hatchback,Manual,White,"99,500 km",2017 (172),"['3', 'owners']","['4', 'doors']",(01) 624 1223,Dublin
+292,A1,1.4 TFSI  120BHP 3 3DR,"€8,995",1.4,Petrol,Hatchback,Automatic,Silver,"132,999 km",2011,"['1', 'owner']","['3', 'doors']","(01) 551 2345, 086 418 0248",Meath
+293,Toyota RAV4,2.5 HYBRID 2WD LUNA,"€27,995",2.5,Petrol Hybrid,SUV,Automatic,Grey,"101,471 km",2018 (181),"['1', 'owner']","['4', 'doors']",(091) 336 466,Galway
+294,Audi A3,TDI SPORT,"€26,900",1.6,Diesel,Saloon,Manual,White,"99,777 km",2018 (182),"['1', 'owner']","['4', 'doors']",(023) 882 0000,Cork
+295,Audi A3,"SPORTBACK 30 TFSI 110HP S-LINE 4DR - MANAGER SPECIAL WAS €39,999 NOW €38,999","€38,999",1.0,Petrol,Hatchback,Manual,Daytona Grey (Pearl Effect),"2,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+296,Audi A1,30 TFSI 110HP S line From €307.55 pm,"€30,950",1.0,Petrol,Hatchback,Manual,White,"7,234 km",2021 (212),"['1', 'owner']","['4', 'doors']",(074) 912 2333,Donegal
+297,Audi A3,SAL 30TDI 116 SE,"€29,500",1.6,Diesel,Saloon,Manual,Grey,"52,108 km",2019 (191),"['2', 'owners']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+298,Audi A3,"SB 30TDI 110 SE (RRP €40,355 - SAVE €4,399)","€35,000",2.0,Diesel,Hatchback,Manual,Atoll Blue,"15,000 km",2022 (221),"['1', 'owner']","['5', 'doors']",(01) 858 0208,Dublin
+299,Volkswagen Tiguan,"2.0 TDI 150HP Highline, Panoramic Sunroof, Adaptive Cruise Control, Heated Seats, Park Sensors with Camera","€35,950",2.0,Diesel,SUV,Manual,Black,"42,749 km",2018 (181),"['1', 'owner']","['5', 'doors']",(01) 691 7760,Dublin
+300,BMW 2 Series,218i M Sport Gran Coupe,"€50,000",1.5,Petrol,Coupe,Automatic,Melbourne Red,"5,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 864 7781,Dublin
+301,Volkswagen Scirocco,2.0 TDI 150BHP  BMT 2DR,"€17,950",2.0,Diesel,Coupe,Manual,Red,"160,200 km",2015 (151),"['1', 'owner']","['5', 'doors']",(090) 647 4620,AN27
+302,A1,1.4 PETROL - AUTOMATIC - 3DR - 12 MONTH WARRANTY,"€9,950",1.4,Petrol,Hatchback,Automatic,Silver,"108,999 km",2011,"['1', 'owner']","['3', 'doors']",(01) 963 8292,E289
+303,Toyota C-HR,1.8 HYBRID LUNA SPORT,"€28,900",1.8,Petrol Hybrid,Hatchback,Automatic,Grey,"43,000 km",2020 (201),"['2', 'owners']","['4', 'doors']",(01) 255 1216,Cork
+304,Audi A3,1.0TFSI 115 SE,"€27,750",1.0,Petrol,Saloon,Manual,Black,"36,923 km",2018 (182),"['2', 'owners']","['4', 'doors']",(01) 858 0208,Dublin
+305,Audi A1,SPORTBACK TFSI SE,"€18,900",1.0,Petrol,Hatchback,Manual,Black,"72,177 km",2017 (171),"['1', 'owner']","['5', 'doors']",(023) 882 0000,Cork
+306,BMW 3 Series,330e EDRIVE MSPORT 4DR AUTOMATIC,"€24,950",2.0,Petrol Plug-in Hybrid,Saloon,Automatic,Grey,"111,991 km",2017 (172),"['1', 'owner']","['4', 'doors']",(01) 280 6916,Dublin
+307,SEAT Ateca,1.6TDI 115HP ECO S,"€19,945",1.6,Diesel,SUV,Manual,Brown,"82,634 km",2017 (171),"['1', 'owner']","['5', 'doors']",(091) 423 390,Galway
+308,Audi A3,1.0TFSI 115 S Line,"€29,999",1.0,Petrol,Saloon,Manual,Daytona Grey (Pearl Effect),"42,000 km",2019 (191),"['2', 'owners']","['4', 'doors']",(01) 902 3493,Dublin
+309,BMW 3 Series,318d SE Saloon,"€51,950",2.0,Diesel,Saloon,Automatic,Black Sapphire Metallic Paint,"11,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 240 5666,Dublin
+310,Audi A3,A3 SPORTBACK 1.0 30TFSI 110BHP SE WITH REVERSING CAMERA & SPACE SAVING SPARE WHEEL,"€33,995",1.0,Petrol,Hatchback,Manual,White,500 km,2022 (222),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+311,Audi A3,1.6 TD 116HP SE with S-LINE exterior,"€30,900",1.6,Diesel,Saloon,Manual,Grey,"33,729 km",2020 (201),"['1', 'owner']","['4', 'doors']",(021) 601 9123,Cork
+312,Abarth 500,ABARTH 500 1.4 T-JET COMPE COMPETIZONE 3DR,"€14,950",1.4,Petrol,Hatchback,Manual,White,"125,002 km",2014 (141),"['4', 'owners']","['3', 'doors']","(091) 635 231, 087 225 5411",X9HE
+313,Romeo Giulietta,1.4L Turismo Hatchback Petrol*Nct 1-2024*Full Service History*Parking Sensors*Finance Arranged*Simi Approved Dealer 2022,"€7,995",1.4,Petrol,Hatchback,Manual,Grey,"154,159 km",2012,"['3', 'owners']","['5', 'doors']","(01) 413 3847, 086 792 2172",Dublin
+314,Land Rover Discovery,3.0D SDV6 4WD 7 Seats @ MERCEDES-BENZ SOUTH DUBLIN,"€74,995",3.0,Diesel,SUV,Automatic,Orange Metallic,"98,918 km",2019 (191),"['2', 'owners']","['5', 'doors']",(01) 236 9200,Dublin
+315,Mercedes-Benz C-Class,C 220d AMG-Line *Mild Hybrid*,"€66,950",2.0,Diesel Hybrid,Estate,Automatic,Grey,"17,020 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 240 8600,Cork
+316,BMW 3 Series,320D M Sport GT,"€30,999",2.0,Diesel,Saloon,Automatic,Grey,"58,426 km",2017 (171),"['2', 'owners']","['4', 'doors']",(01) 531 4520,Dublin
+317,Audi A1,1.4 TFSI SPORT AUTOMATIC MODEL // SPORT SUSPENSION // PADDLE SHIFT // AIR CONDITIONING // FINANCE THIS CAR FROM ONLY €53 PER WEEK,"€12,750",1.4,Petrol,Hatchback,Automatic,Red,"121,649 km",2013 (131),"['1', 'owner']","['3', 'doors']",(01) 456 9562,D22XK49
+318,Audi A1,1.2 TFSI SPORT SPORTBACK,"€12,995",1.2,Petrol,Hatchback,Manual,White,"144,314 km",2013 (131),"['3', 'owners']","['4', 'doors']",(021) 603 6468,Cork
+319,Alfa Romeo Giulietta,1.6 JTDM-2 120 Super*New Timing Belt Fitted*Full Service History*Parking Sensors*Finance Arranged*Simi Approved Dealer 2022,"€16,995",1.6,Diesel,Hatchback,Manual,Black,"140,666 km",2018 (181),"['1', 'owner']","['5', 'doors']","(01) 413 3847, 086 792 2172",Dublin
+320,Audi A1,5 DR 1.6 TDI 90BHP SPORT SPORTBACK,"€10,950",1.6,Diesel,Hatchback,Manual,Black,"82,744 km",2013 (131),"['2', 'owners']","['5', 'doors']",(01) 901 5755,FD23
+321,Audi A3,A3 Sport 40 Tfsi E S-A  Sport  40 TFSIe 204 13kWh PHEV S tronic Auto Start/Stop,"€40,000",1.4,Petrol Hybrid,Hatchback,Automatic,Black,"17,077 km",2021 (211),"['1', 'owner']","['5', 'doors']",(01) 858 0208,Dublin
+322,Toyota Prius,1.8 Plug-in Hybrid,"€25,945",1.8,Petrol Plug-in Hybrid,Hatchback,Automatic,Red,"124,921 km",2018 (181),"['1', 'owner']","['4', 'doors']",(091) 423 390,Galway
+323,Aston Martin Vantage,4.0 V8 COUPE CEO EDITION=LOW MILEAGE//HUGE SPEC=DUO TONE INTERIOR HIDE//FULL ASTON MARTIN SERVICE HISTORY=182 D REG//TAILORED FINANCE PACKAGES AVAILAB,"€169,995",4.0,Petrol,Hatchback,Automatic,Silver,"30,577 km",2018 (182),"['2', 'owners']","['2', 'doors']",(01) 832 1222,Dublin
+324,Audi A1,* HALF LEATHER * 1.4 TFSI SLINE AUTOMATIC,"€16,500",1.4,Petrol,Hatchback,Automatic,Silver,"90,200 km",2013 (132),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+325,Audi A1,30 TFSI 110HP,"€29,950",1.0,Petrol,Hatchback,Manual,Cortina White,"16,539 km",2022 (221),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+326,Audi A3,S-Line 30 TFSI 110HP*Leather Seats*,"€39,950",1.0,Petrol,Saloon,Manual,Blue,"6,500 km",2022 (221),"['2', 'owners']","['4', 'doors']",(01) 513 6903,Dublin
+327,Audi A3,S Line 30 TFSI 110HP - Comfort Pack - Finance From €446,"€38,950",1.0,Petrol,Saloon,Manual,Mythos Black (Metallic),"6,546 km",2021 (212),"['1', 'owner']","['4', 'doors']",(071) 911 5333,Sligo
+328,Audi A1,1.4 TFSI S-LINE AUTOMATIC 5DR SPORT  // NAAS ROAD AUTOS EST 1991// SIMI DEALER 2022 //   ALL OUR CARS ARE CARTELL APPROVED  // JAPANESE IMPORT SPECIAL,"€13,950",1.4,Petrol,Hatchback,Automatic,White,"160,999 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 456 4074,Dublin
+329,Mercedes-Benz E-Class,E 220 D AMG / / NIGHT PACK // ESTATE A/T,"€44,900",2.0,Diesel,Estate,Automatic,Blue,"70,160 km",2019 (191),"['2', 'owners']","['5', 'doors']",(01) 255 1216,Louth
+330,Audi A1,1.4 TFSI SPORTBACK URBAN STYLE EDITION,"€16,950",1.4,Petrol,Hatchback,Automatic,White / Black,"71,645 km",2013 (131),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+331,Jaguar F-PACE,2.0D PRESTIGE AUTO,"€50,950",2.0,Diesel,SUV,Automatic,Portofino Blue,"65,306 km",2019 (191),"['1', 'owner']","['5', 'doors']",(045) 455 900,Kildare
+332,Audi A3,1.6 TDI S-LINE BLACK EDITION 110BHP 4DR,"€27,950",1.6,Diesel,Saloon,Manual,Grey,"40,020 km",2018 (182),"['1', 'owner']","['4', 'doors']","(01) 409 7800, 086 399 7773",Dublin
+333,Audi A1,(2yr warranty) 1.4 petrol S-Line S-Tronic automatic 056607,"€15,999",1.4,Petrol,Hatchback,Automatic,Midnight Black Metallic,"127,869 km",2014 (141),"['1', 'owner']","['4', 'doors']",(01) 862 3860,Dublin
+334,Hyundai Santa Fe,4WD Executive Plus,"€42,897",2.2,Diesel,SUV,Manual,Typhoon Silver,"87,107 km",2019 (191),"['2', 'owners']","['5', 'doors']",(021) 235 5179,Cork
+335,Audi A3,40 TFSI e 204HP S Tronic SE €520 p/m PCP,"€41,975",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Grey,"58,680 km",2021 (211),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+336,Audi A3,Sportback 30 Tfsi 110HP Attraction,"€33,950",1.0,Petrol,Hatchback,Manual,Brilliant Black,"22,556 km",2022 (221),"['1', 'owner']","['5', 'doors']",(051) 337 600,Waterford
+337,Audi A3,Saloon 30 Tfsi SE,"€39,459",1.0,Petrol,Saloon,Manual,Floret Silver Metallic,940 km,2022 (222),"['1', 'owner']","['4', 'doors']",(051) 337 600,Waterford
+338,Audi A1,1.4 TFSI AUTOMATIC SPORT MODEL // NEW NCT TILL 10/24 // UPGRADED ALLOY WHEELS // AIR CONDITIONING // FINANCE THIS CAR FOR ONLY €53 PER WEEK,"€13,900",1.4,Petrol,Hatchback,Automatic,White,"66,339 km",2014 (142),"['1', 'owner']","['3', 'doors']",(01) 456 9562,D22XK49
+339,Audi A1,1.2 TFSI SPORT SPORTBACK,"€16,900",1.2,Petrol,Hatchback,Manual,Black,"100,010 km",2015 (151),"['4', 'owners']","['4', 'doors']","(041) 213 6203, (041) 213 6203",Louth
+340,Audi A3,1.6L Hatchback Diesel Manual,"€21,995",1.6,Diesel,Hatchback,Manual,Black,"171,080 km",2019 (191),"['1', 'owner']","['5', 'doors']",087 067 3668,Dublin
+341,Abarth 595,ESSEESSE T-JET 180,"€33,950",1.4,Petrol,Hatchback,Manual,Grey,"10,130 km",2021 (211),"['1', 'owner']","['3', 'doors']",(01) 901 5755,FD23
+342,Audi A1,1.0TFSI 95HP S-Line Ultra Package,"€20,950",1.0,Petrol,Hatchback,Manual,Blue,"75,900 km",2018 (181),"['1', 'owner']","['4', 'doors']",(090) 647 4620,AN27
+343,A1,1.6 TDI Sport 104BHP 3DR,"€8,950",1.6,Diesel,Hatchback,Manual,White,"189,897 km",2011,"['2', 'owners']","['3', 'doors']",087 363 4116,Dublin
+344,Audi A1,1.0 TFSI AUTOMATIC,"€19,500",1.0,Petrol,Hatchback,Automatic,Blue,"86,443 km",2016 (161),"['1', 'owner']","['5', 'doors']",089 402 9721,Dublin
+345,Audi A3,SPORTBACK 35 TFSI 150HP AUTO **S-TRONIC **,"€29,950",1.5,Petrol,Hatchback,Automatic,Grey,"8,286 km",2020 (201),"['1', 'owner']","['5', 'doors']","(01) 409 7800, 086 399 7773",Dublin
+346,Audi Q3,Sportback 35 TDI 150HP S Tronic,"€47,895",2.0,Diesel,SUV,Automatic,Grey,"22,429 km",2021 (211),"['1', 'owner']","['4', 'doors']","(053) 919 2051, 086 128 9372",R658
+347,Audi A3,1.0TFSI 115 SE,"€28,500",1.0,Petrol,Saloon,Manual,Grey,"25,844 km",2019 (192),"['1', 'owner']","['4', 'doors']",(01) 858 0208,Dublin
+348,Audi A3,SB 1.6TDI 116 S-Line,"€31,500",1.6,Diesel,Hatchback,Manual,White,"67,508 km",2019 (191),"['2', 'owners']","['4', 'doors']",(01) 858 0208,Dublin
+349,Audi A3,1.0TFSI 116HP SE,"€27,950",1.0,Petrol,Hatchback,Manual,Black,"51,000 km",2019 (191),"['1', 'owner']","['5', 'doors']",(045) 906 666,Kildare
+350,BMW 1 Series,118 I M SPORT 5DR **MANUAL**SPORT LEATHER HEATED SEATS**SAT NAV**FRONT AND REAR PARKING SENSORS**,"€32,490",1.5,Petrol,Hatchback,Manual,Grey,"19,464 km",2020 (201),"['1', 'owner']","['5', 'doors']",(01) 485 1267,D12
+351,Audi A3,1.6TDI 116BHP S-Line,"€28,900",1.6,Diesel,Hatchback,Manual,Black,"43,000 km",2018 (182),"['4', 'owners']","['4', 'doors']",(01) 685 6585,V440
+352,Hyundai i30,Petrol Deluxe Turbo,"€19,995",1.0,Petrol,Hatchback,Manual,Blue,"74,000 km",2019 (191),"['1', 'owner']","['5', 'doors']",(021) 475 7333,Cork
+353,Audi A3,30 TDI 116HP S Line *Black Styling Pack*,"€42,850",2.0,Diesel,Hatchback,Manual,Ibis White,"3,253 km",2022 (222),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+354,Audi A3,2.0TDI 116HP SE - Reversing Camera - In Stock - Sportback -,"€37,245",2.0,Diesel,Hatchback,Manual,Brilliant Black,200 km,2022 (222),"['1', 'owner']","['5', 'doors']",(071) 911 5333,Sligo
+355,Audi A3,30 TFSI 110HP SE,"€35,999",1.0,Petrol,Saloon,Manual,Floret Silver (Metallic),"5,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+356,Alfa Romeo Giulia,SPECIALE 2.2JTDM-2 180BHP AUTO ***Full Leather /,"€31,900",2.1,Diesel,Saloon,Automatic,Rosso Red,"115,042 km",2017 (172),"['1', 'owner']","['4', 'doors']",(042) 942 4201,Louth
+357,Audi A3,"40 TFSI e 204HP S Tronic S Line (HYBRID) ""Price Includes €2,000 Scrappage""","€41,900",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Grey,"39,125 km",2021 (212),"['1', 'owner']","['4', 'doors']",(056) 775 1788,Kilkenny
+358,Audi A3,1.0 TFSI S-LINE 30 TFSI 110BHP MODEL // FULL LEATHER INTERIOR // FULL DIGITAL CLUSTER // APPLE CARPLAY // FINANCE THIS CAR FROM ONLY €132 PER WEEK,"€33,900",1.0,Petrol,Saloon,Manual,Blue,"18,299 km",2021 (211),"['1', 'owner']","['4', 'doors']",(01) 456 9562,D22XK49
+359,Audi A3,40 TFSI e 204HP S Tronic SE €461 p/m PCP,"€40,675",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Black,"13,407 km",2021 (212),"['1', 'owner']","['4', 'doors']","(053) 919 2200, 087 055 9242",Wexford
+360,Audi A1,1.4TFSI 125HP S-LINE 4DR,"€20,999",1.4,Petrol,Hatchback,Manual,Nano Grey (Metallic),"48,000 km",2017 (172),"['2', 'owners']","['4', 'doors']",(01) 902 3493,Dublin
+361,Volkswagen Tiguan,2.0 TDI 150HP Highline DSG,"€36,950",2.0,Diesel,SUV,Automatic,Blue,"55,000 km",2019 (192),"['1', 'owner']","['5', 'doors']",(051) 301 222,Waterford
+362,Audi A3,SE TECHNIK 30 TDI /AUTOMATIC/ONE OWNER / SAT NAV / APPLE CAR PLAY/ CRUISE CONTROL,"€28,950",1.6,Diesel,Hatchback,Automatic,Blue,"46,797 km",2019 (191),"['1', 'owner']","['5', 'doors']","(01) 456 8489, 087 258 5443",Dublin
+363,Audi A1,Sportback 1.4TDI 90BHP SE,"€16,950",1.4,Diesel,Hatchback,Manual,Mythos Black (Metallic),"87,745 km",2016 (161),"['2', 'owners']","['5', 'doors']",(090) 644 9250,H548
+364,Audi A3,2.0TDI 116BHP SE SALOON - REV CAM + HEATED SEATS,"€41,342",2.0,Diesel,Saloon,Manual,Floret Silver (Metallic),"3,585 km",2022 (222),"['1', 'owner']","['4', 'doors']",(091) 336 000,Galway
+365,Audi A3,TDI 116HP SE,"€28,950",1.6,Diesel,Hatchback,Manual,Brilliant Black,"55,235 km",2020 (202),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+366,Romeo Spider,2.0 Lusso Convertible Petrol Manual (155bhp) New Nct 3-23*Your Chance to Own This Iconic Spider in Alfa Red*,"€5,995",2.0,Petrol,Convertible,Manual,Red,"214,850 km",2001,"['7', 'owners']","['2', 'doors']","(01) 413 3847, 086 792 2172",Dublin
+367,Audi A3,A3 SPORTBACK 1.4 40TFSI e 204BHP SE (PLUG IN HYBRID) WITH COMFORT PACK & PRIVACY GLASS,"€44,995",1.4,Petrol Plug-in Hybrid,Hatchback,Automatic,Manhattan Grey (Metallic),"15,727 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 601 9040,Cork
+368,Audi A1,1.4 T AUTOMATIC,"€14,900",1.4,Petrol,Hatchback,Automatic,White,"108,999 km",2014 (141),"['1', 'owner']","['3', 'doors']",(01) 890 1921,PX34
+369,Audi A3,SPORTBACK 30 TFSI 110HP SE 4DR,"€36,999",1.0,Petrol,Hatchback,Manual,Ibis White,"1,891 km",2022 (221),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+370,BMW 1 Series,"SE BUSINESS 5DR **WAS ?22,995, NOW ?20,995**","€20,995",1.5,Diesel,Hatchback,Manual,White,"101,931 km",2018 (181),"['1', 'owner']","['5', 'doors']",(021) 603 6468,Cork
+371,Mercedes-Benz CLA-Class,CLA 180 Urban,"€29,950",1.6,Petrol,Coupe,Manual,Mountain Grey Metallic,"91,000 km",2019 (191),"['1', 'owner']","['4', 'doors']",(051) 301 222,Waterford
+372,Audi A3,2.0TDI 116HP S Line - Saloon - Reversing Camera - Interior Light Pack - In Stock -,"€44,850",2.0,Diesel,Saloon,Manual,Mythos Black (Metallic),"5,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(071) 911 5333,Sligo
+373,A1,1.4 TFSI SE PLUS AUTOMATIC  5DR HATCHBACK  // NAAS ROAD AUTOS EST 1991 //  SIMI DEALER 2022 //  NCA APPROVED DEALER //  ALL OUR CARS ARE CARTELL APPRO,"€11,950",1.4,Petrol,Hatchback,Automatic,Brown,"94,999 km",2012,"['1', 'owner']","['5', 'doors']",(01) 456 4074,Dublin
+374,Audi A3,SALOON AUTO TDI SE *ELECTRIC SEATS*,"€29,850",1.6,Diesel,Saloon,Automatic,Brilliant Black,"45,015 km",2019 (192),"['1', 'owner']","['4', 'doors']",(096) 79000,Mayo
+375,SEAT Ibiza,1.0TSI 95HP FR 5DR,"€23,900",1.0,Petrol,Hatchback,Manual,Midnight Black,"6,410 km",2022 (221),"['1', 'owner']","['5', 'doors']",(01) 685 6585,V440
+376,Audi A1,SE TDI - 100% FINANCE ARRANGED,"€19,950",1.6,Diesel,Hatchback,Manual,Blue,"94,951 km",2018 (181),"['1', 'owner']","['5', 'doors']","(052) 617 7877, 086 048 0070",Tipperary
+377,Audi A1,1.4TDI 90HP SE,"€17,950",1.4,Diesel,Hatchback,Manual,Scuba Blue,"96,985 km",2016 (161),"['3', 'owners']","['4', 'doors']",(096) 79000,Mayo
+378,Audi A3,1.0TFSI 115 SE,"€29,000",1.0,Petrol,Hatchback,Manual,Black,"33,944 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 858 0208,Dublin
+379,BMW 5 Series,520d M Sport Auto,"€69,995",2.0,Diesel,Saloon,Automatic,Carbon Black,"28,226 km",2022 (221),"['1', 'owner']","['4', 'doors']",(090) 640 6088,Westmeath
+380,Audi A3,SALOON 30 TFSI 110HP SE,"€37,999",1.0,Petrol,Saloon,Manual,Floret Silver (Metallic),"5,001 km",2022 (221),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+381,BMW 2 Series,218d M-Sport Auto Grand Tourer (7 SEATS),"€27,950",2.0,Diesel,MPV,Automatic,Black,"82,000 km",2018 (181),"['1', 'owner']","['5', 'doors']",(090) 647 4620,AN27
+382,Alfa Romeo MiTo,0.9 105 Twin Air*Low Mileage*2 keys*New Nct 9-24*Taxed 9-23*Service History*2 keys*Finance Arranged*Simi Approved Dealer 2022,"€10,995",0.9,Petrol,Hatchback,Manual,Black,"98,442 km",2015 (152),"['2', 'owners']","['3', 'doors']","(01) 413 3847, 086 792 2172",Dublin
+383,A1,1.4 TFSI 120BHP 3 3DR,"€8,995",1.4,Petrol,Hatchback,Automatic,Red,"137,000 km",2011,"['1', 'owner']","['3', 'doors']","(01) 551 2345, 086 418 0248",Meath
+384,Audi A3,Saloon 1.6TDI 116BHP SE - S-Line Ext.,"€28,950",1.6,Diesel,Saloon,Manual,Cosmos Blue (Metallic),"76,725 km",2019 (191),"['1', 'owner']","['4', 'doors']",(090) 644 9250,H548
+385,BMW 1 Series,116d M Sport 5-Door,"€23,950",1.5,Diesel,Hatchback,Manual,Black Sapphire Metallic Paint,"73,000 km",2017 (171),"['4', 'owners']","['5', 'doors']",(061) 422 600,Limerick
+386,Mercedes-Benz C-Class,C 200 Avantgarde *Mild Hybrid*,"€59,950",1.5,Petrol Hybrid,Saloon,Automatic,Grey,"10,556 km",2022 (221),"['1', 'owner']","['4', 'doors']",(021) 240 8600,Cork
+387,Audi A1,1.6 TDI SPORT 105 BHP,"€15,995",1.6,Diesel,Hatchback,Manual,Black,"106,233 km",2015 (151),"['2', 'owners']","['3', 'doors']","(01) 401 1599, 087 149 6692",Dublin
+388,Abarth 595,1 Hour Finance Approval - €106PW No Deposit,"€22,950",1.4,Petrol,Hatchback,Manual,Black,"45,646 km",2018 (181),"['1', 'owner']","['3', 'doors']",(01) 903 8020,Dublin
+389,Volkswagen Golf,1.0TSI Highline 110HP 5DR,"€21,950",1.0,Petrol,Hatchback,Manual,Yellow,"73,500 km",2018 (182),"['2', 'owners']","['5', 'doors']",(01) 513 6903,Dublin
+390,Audi A1,1.4 TFSI AUTOMATIC MODEL // BLUETOOTH // REAR PRIVACY GLASS // AIR CONDITIONING // FINANCE THIS CAR FROM ONLY €52 PER WEEK,"€12,900",1.4,Petrol,Hatchback,Automatic,Red,"91,827 km",2013 (131),"['1', 'owner']","['5', 'doors']",(01) 456 9562,D22XK49
+391,Ford Mustang,2.3 FASTBACK ECOBOOST AUTO,"€47,950",2.3,Petrol,Coupe,Automatic,Black,"38,501 km",2018 (181),"['2', 'owners']","['2', 'doors']",(045) 455 900,Kildare
+392,Audi A1,"SB 30TFSI 110 SE (ORIGINAL RRP €31,565 SAVE €2,065)","€29,000",1.0,Petrol,Hatchback,Manual,Blue,"5,000 km",2022 (221),"['1', 'owner']","['4', 'doors']",(01) 858 0208,Dublin
+393,Honda Civic,SE 129 VTEC Turbo Start/Stop **FRONT AND REAR PARKING SENSORS**,"€23,890",1.0,Petrol,Hatchback,Manual,Blue,"31,288 km",2019 (192),"['1', 'owner']","['5', 'doors']",(01) 485 1267,D12
+394,Audi A3,1.6 SE Saloon Diesel Manual (116bhp),"€25,750",1.6,Diesel,Saloon,Manual,Blue,"68,000 km",2019 (191),"['1', 'owner']","['4', 'doors']","(01) 826 6340, 087 829 2727",Dublin
+395,Audi A3,"30 TDI 116HP SE - MANAGER SPECIAL WAS €36,999 NOW €35,999","€35,999",2.0,Diesel,Hatchback,Manual,Manhattan Grey (Metallic),"2,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 902 3493,Dublin
+396,Audi A3,SE 1.0TFSI 115BHP,"€25,450",1.0,Petrol,Hatchback,Manual,White,"44,053 km",2019 (191),"['2', 'owners']","['5', 'doors']",(044) 931 7065,Westmeath
+397,A1,1.4 AUTOMATIC,"€9,500",1.4,Petrol,Hatchback,Automatic,Purple,"119,999 km",2011,"['1', 'owner']","['3', 'doors']",(01) 890 1921,PX34
+398,Dacia Duster,"1.5 Blue dCi 115 Comfort,","€22,800",1.5,Diesel,SUV,Manual,Desert Orange,"44,815 km",2020 (201),"['1', 'owner']","['4', 'doors']",(021) 235 5350,Cork
+399,Audi A6,2.0 TDI SE ULTRA 187BHP 4DR AUTOMATIC - HIGH SPEC,"€20,950",2.0,Diesel,Saloon,Automatic,White,"149,665 km",2015 (151),"['2', 'owners']","['4', 'doors']",(01) 280 6916,Dublin
+400,BMW 3 Series,320d SE Saloon,"€55,000",2.0,Diesel,Saloon,Automatic,Mineral White,"5,000 km",2022 (222),"['1', 'owner']","['4', 'doors']",(01) 864 7781,Dublin
+401,Dacia Sandero Stepway,Signature TCe 90 MY18,"€15,400",0.9,Petrol,SUV,Manual,Fire Red,"66,578 km",2019 (191),"['1', 'owner']","['4', 'doors']",(01) 404 9999,Dublin
+402,Audi A6,2.0TDI 190bhp SE Auto,"€28,800",2.0,Diesel,Saloon,Automatic,White,"126,729 km",2018 (181),"['2', 'owners']","['4', 'doors']",(021) 475 7261,Cork
+403,Cupra Formentor,FORMENTOR 1.5 TSI 150BHP  DSG 5DR,"€44,995",1.5,Petrol,SUV,Automatic,Green,"6,000 km",2022 (221),"['1', 'owner']","['5', 'doors']",(041) 213 4062,Louth
+404,Audi A1,SB S Line 1.0TFSI 110HP + Comfort Pack - IN STOCK -,"€34,250",1.0,Petrol,Hatchback,Manual,Mythos Black (Metallic),"1,000 km",2022 (222),"['1', 'owner']","['5', 'doors']",(071) 911 5333,Sligo
+405,Audi A3,2.0TDI 116BHP SE SPORTBACK,"€40,995",2.0,Diesel,Hatchback,Manual,Manhattan Grey,"2,354 km",2022 (222),"['1', 'owner']","['4', 'doors']",(091) 336 000,Galway
+406,Audi A1,1.0TFSI 110HP SE,"€30,950",1.0,Petrol,Hatchback,Manual,Grey,"17,850 km",2021 (212),"['1', 'owner']","['5', 'doors']",(045) 906 666,Kildare
+407,Romeo 33,1.5L Hatchback Petrol Manual*Unique Car*One Owner From New*Fully Documented Mileage*Full History Provided*,"€13,995",1.5,Petrol,Hatchback,Manual,Black,"32,505 km",1991,"['1', 'owner']","['5', 'doors']","(01) 413 3847, 086 792 2172",Dublin
